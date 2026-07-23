@@ -1,7 +1,7 @@
 # CausalAno: Causal-aware Anomaly Detection for Tabular Data
 ICML 2026 paper: https://openreview.net/pdf?id=aB9PaI3Rw2
 ## Framework
-![framework](https://github.com/nphdang/ImbLLM/blob/main/causalano_method.jpg)
+![framework](https://github.com/nphdang/CausalAno/blob/main/causalano_method.jpg)
 ## Usage
 Run CausalAno method:
 ```bash
