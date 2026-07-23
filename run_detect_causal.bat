@@ -1,0 +1,1 @@
+python -W ignore detect_causal.py --dataset wine --method causal_ano --batchsize 64 --runs 5

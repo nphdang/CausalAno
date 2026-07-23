@@ -1,0 +1,1001 @@
+device_type,os_version,app_usage_pattern,protocol,data_volume,log_type,event,event_description,error_code,file_accessed,process,ioc,target
+iPhone,iOS 14.6,Low,HTTPS,190,system,App Install,793,423,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+iPhone,Android 10,Normal,FTP,5845,application,System Update,551,637,/var/log/syslog,chrome.exe,Pegasus Signature,1
+iPhone,Android 11,Normal,SSH,3629,application,Logout,278,168,/var/log/syslog,malware.exe,None,1
+iPhone,Android 11,High,FTP,4575,security,App Crash,126,567,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+Android,iOS 14.6,Normal,SSH,1607,system,Logout,308,115,/tmp/malware.bin,systemd,Known Malicious IP,0
+iPhone,Android 10,Normal,HTTPS,2242,security,App Crash,8,616,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,Android 10,High,FTP,6383,system,Logout,410,478,/var/log/syslog,chrome.exe,None,1
+iPhone,Android 10,Low,FTP,9701,system,System Update,754,528,/var/log/syslog,systemd,None,1
+iPhone,iOS 15.0,High,HTTP,9002,system,Logout,192,915,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,1
+iPhone,iOS 14.6,Low,HTTPS,861,security,File Access,357,959,/home/user/docs/report.docx,chrome.exe,None,1
+iPhone,Android 10,Low,HTTPS,7538,security,App Crash,309,419,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,iOS 14.6,Normal,HTTPS,1944,application,System Update,545,514,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+Android,Android 10,Normal,HTTP,5784,security,Logout,242,726,/var/log/syslog,malware.exe,Pegasus Signature,1
+Android,iOS 14.6,Low,HTTP,2180,security,Logout,740,656,/var/log/syslog,systemd,Known Malicious IP,1
+iPhone,iOS 14.6,Low,FTP,1133,system,File Access,665,765,/var/log/syslog,malware.exe,Pegasus Signature,0
+Android,Android 11,High,HTTPS,5457,application,App Install,517,396,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Normal,HTTPS,893,security,Logout,321,632,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+Android,Android 11,Normal,SSH,2778,system,Logout,718,268,/var/log/syslog,systemd,Known Malicious IP,0
+Android,iOS 15.0,Normal,FTP,5111,security,File Access,726,719,/tmp/malware.bin,systemd,Known Malicious IP,1
+iPhone,Android 10,Low,HTTPS,7842,system,Login,473,443,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+Android,iOS 15.0,Normal,SSH,5031,system,File Access,355,113,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Low,FTP,1810,system,Logout,568,390,/var/log/syslog,chrome.exe,Known Malicious IP,1
+Android,Android 11,Low,HTTPS,5199,security,System Update,970,195,/var/log/syslog,explorer.exe,None,1
+Android,Android 10,Normal,HTTPS,8368,security,App Install,531,464,/var/log/syslog,systemd,None,0
+Android,iOS 14.6,Normal,FTP,6915,security,Logout,109,223,/var/log/syslog,chrome.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Low,HTTP,374,security,Login,63,499,/home/user/docs/report.docx,systemd,Pegasus Signature,0
+Android,iOS 14.6,Low,SSH,2023,security,File Access,424,599,/tmp/malware.bin,chrome.exe,None,1
+Android,iOS 15.0,Low,FTP,6194,application,Logout,948,264,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,Android 11,Normal,HTTP,1728,security,File Access,802,485,/var/log/syslog,chrome.exe,Known Malicious IP,1
+iPhone,iOS 15.0,High,SSH,5178,application,File Access,828,148,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,Android 11,Normal,HTTP,2057,application,System Update,565,482,/tmp/malware.bin,systemd,Known Malicious IP,1
+Android,iOS 14.6,Normal,SSH,3085,security,File Access,463,448,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Low,HTTP,8862,application,Login,325,524,/tmp/malware.bin,explorer.exe,None,1
+iPhone,iOS 14.6,Low,SSH,6922,application,Login,899,845,/var/log/syslog,malware.exe,Pegasus Signature,1
+Android,iOS 14.6,High,HTTP,7277,system,Logout,578,357,/home/user/docs/report.docx,systemd,Known Malicious IP,0
+iPhone,iOS 14.6,Normal,FTP,7762,application,App Install,308,998,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+Android,iOS 14.6,Normal,FTP,8346,system,System Update,104,646,/var/log/syslog,systemd,None,1
+iPhone,iOS 15.0,High,HTTP,6365,security,App Install,533,386,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+Android,Android 10,Normal,HTTPS,3269,system,File Access,799,238,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,Android 11,High,FTP,8155,security,App Crash,952,735,/home/user/docs/report.docx,systemd,None,1
+iPhone,Android 11,Low,SSH,9803,system,System Update,876,134,/home/user/docs/report.docx,systemd,None,0
+Android,iOS 14.6,Low,HTTP,5038,system,App Crash,459,509,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+Android,iOS 15.0,Normal,HTTPS,7450,system,App Install,578,102,/home/user/docs/report.docx,systemd,None,1
+Android,iOS 15.0,High,FTP,5281,system,System Update,300,890,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+Android,Android 11,Normal,HTTP,7015,system,Login,890,249,/home/user/docs/report.docx,systemd,Known Malicious IP,0
+iPhone,iOS 14.6,Normal,HTTP,4538,system,Logout,510,196,/var/log/syslog,chrome.exe,Known Malicious IP,1
+iPhone,Android 11,Normal,HTTPS,8681,system,App Crash,426,403,/home/user/docs/report.docx,systemd,None,1
+iPhone,iOS 14.6,High,HTTP,5958,application,App Crash,635,725,/home/user/docs/report.docx,explorer.exe,None,0
+iPhone,iOS 15.0,Normal,FTP,822,system,File Access,222,701,/var/log/syslog,chrome.exe,Pegasus Signature,1
+Android,Android 11,Normal,HTTPS,2398,application,App Install,985,674,/var/log/syslog,malware.exe,None,0
+Android,Android 10,High,HTTPS,8845,system,App Install,974,341,/tmp/malware.bin,systemd,None,0
+iPhone,Android 10,High,FTP,4221,application,App Crash,10,506,/var/log/syslog,chrome.exe,None,1
+Android,Android 10,High,FTP,1658,system,App Crash,928,241,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Normal,HTTPS,1788,application,App Install,662,414,/var/log/syslog,malware.exe,None,0
+Android,iOS 14.6,High,HTTPS,4216,system,App Crash,637,689,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Low,HTTP,3670,security,Login,269,754,/var/log/syslog,explorer.exe,Known Malicious IP,1
+Android,iOS 14.6,Low,SSH,8131,security,System Update,669,376,/var/log/syslog,chrome.exe,Known Malicious IP,1
+iPhone,iOS 15.0,High,FTP,3584,system,App Crash,8,753,/var/log/syslog,explorer.exe,None,1
+Android,iOS 15.0,High,FTP,3993,system,App Crash,487,663,/var/log/syslog,systemd,Pegasus Signature,0
+Android,iOS 14.6,Normal,HTTPS,3924,security,App Install,224,659,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+Android,iOS 14.6,High,HTTPS,9624,security,App Crash,556,414,/var/log/syslog,chrome.exe,Known Malicious IP,1
+iPhone,iOS 14.6,Normal,SSH,2823,system,App Install,612,523,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+Android,Android 11,Normal,SSH,2155,system,App Crash,617,984,/var/log/syslog,explorer.exe,None,0
+iPhone,Android 10,Normal,FTP,5699,system,App Crash,439,354,/home/user/docs/report.docx,chrome.exe,None,1
+Android,Android 10,Low,HTTPS,2521,application,File Access,302,759,/tmp/malware.bin,systemd,Known Malicious IP,1
+iPhone,iOS 15.0,Normal,HTTP,9052,system,Logout,430,168,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,1
+iPhone,iOS 15.0,High,FTP,5253,security,Logout,925,605,/tmp/malware.bin,malware.exe,Known Malicious IP,0
+iPhone,Android 10,High,HTTP,5826,application,App Install,23,790,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,iOS 14.6,Low,FTP,143,system,File Access,825,504,/var/log/syslog,systemd,None,1
+Android,Android 10,Low,FTP,9685,system,File Access,861,371,/home/user/docs/report.docx,malware.exe,None,1
+Android,Android 10,High,FTP,2735,security,App Install,48,811,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+iPhone,Android 10,High,FTP,6831,system,App Crash,267,233,/tmp/malware.bin,malware.exe,None,0
+iPhone,iOS 15.0,High,HTTP,1414,system,File Access,841,542,/var/log/syslog,malware.exe,None,1
+Android,Android 11,Normal,HTTP,2253,security,Logout,147,362,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,0
+Android,Android 10,High,HTTP,3184,system,Logout,313,117,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,Android 11,Low,SSH,2447,security,File Access,579,429,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+Android,Android 11,Low,HTTPS,2109,application,System Update,677,695,/home/user/docs/report.docx,explorer.exe,None,1
+iPhone,Android 11,High,FTP,4038,system,System Update,43,641,/var/log/syslog,systemd,Pegasus Signature,1
+iPhone,Android 10,Low,SSH,2072,application,App Install,908,127,/tmp/malware.bin,systemd,Pegasus Signature,1
+iPhone,Android 10,High,HTTP,5615,security,System Update,134,625,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,1
+Android,iOS 15.0,Low,SSH,2606,application,App Install,648,984,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Low,SSH,741,system,System Update,281,298,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+Android,Android 10,High,SSH,943,security,System Update,84,493,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Normal,HTTP,4393,system,Login,608,344,/var/log/syslog,systemd,Pegasus Signature,1
+iPhone,iOS 15.0,Normal,SSH,6776,application,App Crash,322,879,/tmp/malware.bin,explorer.exe,None,0
+iPhone,Android 10,High,HTTPS,4490,application,Logout,760,920,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+iPhone,Android 10,Low,SSH,5594,system,File Access,642,697,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+iPhone,Android 10,Normal,HTTPS,1166,system,Logout,358,824,/home/user/docs/report.docx,chrome.exe,None,1
+Android,iOS 14.6,High,HTTP,7877,system,App Crash,14,336,/tmp/malware.bin,chrome.exe,None,1
+iPhone,Android 10,High,HTTPS,2923,application,Login,225,927,/tmp/malware.bin,explorer.exe,None,1
+Android,iOS 15.0,Normal,SSH,4788,security,Logout,48,754,/var/log/syslog,chrome.exe,None,1
+Android,iOS 15.0,Low,FTP,5081,system,File Access,997,725,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,Android 11,Normal,SSH,1041,system,File Access,473,425,/var/log/syslog,explorer.exe,None,0
+iPhone,iOS 15.0,High,SSH,9203,security,Login,659,770,/tmp/malware.bin,malware.exe,None,1
+iPhone,Android 11,Low,SSH,212,security,System Update,627,647,/tmp/malware.bin,systemd,Pegasus Signature,1
+iPhone,iOS 15.0,High,HTTPS,2665,security,App Crash,913,676,/var/log/syslog,systemd,Known Malicious IP,1
+iPhone,iOS 15.0,Low,FTP,1324,system,App Crash,62,101,/var/log/syslog,systemd,Known Malicious IP,1
+Android,iOS 14.6,Normal,FTP,2360,security,Logout,478,829,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+Android,iOS 15.0,Low,HTTP,5987,system,System Update,562,153,/var/log/syslog,explorer.exe,Pegasus Signature,0
+iPhone,Android 10,High,SSH,3692,application,Logout,639,306,/var/log/syslog,chrome.exe,Known Malicious IP,1
+Android,Android 11,Normal,SSH,4937,application,App Install,618,784,/var/log/syslog,systemd,Pegasus Signature,1
+Android,Android 11,Low,HTTPS,8280,system,System Update,90,444,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,Android 10,Low,HTTPS,1176,application,Logout,980,590,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,iOS 14.6,High,HTTPS,7192,application,App Install,460,625,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,Android 11,Low,HTTP,5392,system,Login,154,912,/var/log/syslog,chrome.exe,Pegasus Signature,0
+iPhone,Android 11,Low,HTTPS,7631,security,App Install,558,543,/var/log/syslog,chrome.exe,Known Malicious IP,1
+Android,Android 10,Normal,FTP,3201,system,Login,890,732,/var/log/syslog,explorer.exe,Known Malicious IP,1
+iPhone,Android 10,High,FTP,2159,security,System Update,227,597,/home/user/docs/report.docx,explorer.exe,None,0
+iPhone,Android 10,Normal,HTTPS,3267,application,App Install,83,557,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+iPhone,Android 10,High,HTTPS,4593,security,App Crash,867,364,/home/user/docs/report.docx,systemd,None,1
+Android,iOS 14.6,Normal,HTTPS,6221,system,System Update,909,655,/tmp/malware.bin,systemd,Pegasus Signature,1
+iPhone,iOS 14.6,Low,SSH,5497,application,Logout,647,575,/home/user/docs/report.docx,chrome.exe,None,1
+iPhone,Android 11,Low,HTTP,1497,application,App Install,321,403,/var/log/syslog,explorer.exe,Known Malicious IP,1
+Android,iOS 15.0,Normal,FTP,8037,application,Logout,557,488,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+Android,Android 11,High,FTP,6379,security,App Crash,454,583,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+iPhone,iOS 15.0,High,HTTPS,8537,system,Logout,247,430,/var/log/syslog,systemd,None,1
+iPhone,Android 10,Normal,HTTPS,8251,system,App Install,621,756,/tmp/malware.bin,explorer.exe,None,1
+iPhone,iOS 14.6,Low,FTP,2082,application,App Crash,130,939,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+Android,iOS 15.0,Normal,SSH,9458,application,App Crash,292,196,/var/log/syslog,systemd,Known Malicious IP,0
+iPhone,iOS 15.0,High,FTP,5227,application,App Crash,464,396,/var/log/syslog,systemd,None,1
+Android,iOS 14.6,Normal,SSH,8594,security,Logout,301,260,/home/user/docs/report.docx,systemd,Pegasus Signature,0
+iPhone,Android 11,Low,FTP,5192,security,System Update,263,358,/var/log/syslog,malware.exe,Known Malicious IP,0
+Android,iOS 14.6,High,FTP,662,security,App Install,291,810,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,0
+iPhone,Android 11,Low,FTP,6346,security,System Update,949,544,/var/log/syslog,systemd,Pegasus Signature,0
+Android,iOS 15.0,Normal,FTP,2344,security,Logout,672,292,/tmp/malware.bin,systemd,Pegasus Signature,1
+iPhone,Android 10,Low,HTTPS,9832,application,File Access,660,241,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+iPhone,Android 11,Low,SSH,2866,security,System Update,919,474,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,0
+iPhone,iOS 15.0,Normal,FTP,1145,application,System Update,158,325,/tmp/malware.bin,chrome.exe,None,0
+Android,Android 10,High,HTTPS,6693,security,Login,561,787,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,iOS 14.6,Low,SSH,6433,security,System Update,21,628,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+iPhone,Android 11,Normal,HTTPS,4889,security,File Access,533,365,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+Android,iOS 14.6,Normal,FTP,791,security,File Access,365,370,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Low,FTP,7781,application,File Access,807,517,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,iOS 14.6,Low,SSH,5765,security,Logout,954,569,/home/user/docs/report.docx,malware.exe,Pegasus Signature,0
+iPhone,iOS 15.0,Normal,SSH,3271,application,Login,81,451,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,1
+iPhone,Android 10,Low,FTP,2441,security,Login,288,763,/home/user/docs/report.docx,explorer.exe,None,1
+iPhone,iOS 14.6,High,HTTPS,5125,application,Logout,932,723,/home/user/docs/report.docx,explorer.exe,None,1
+Android,Android 10,High,FTP,1147,security,App Install,643,379,/var/log/syslog,systemd,Known Malicious IP,1
+iPhone,Android 10,Low,HTTPS,3787,security,Logout,556,423,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Normal,FTP,3252,security,File Access,123,815,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,Android 11,Normal,FTP,8556,security,App Install,124,103,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+Android,Android 10,Normal,SSH,5052,security,Login,271,608,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,iOS 15.0,High,FTP,3780,system,System Update,864,522,/tmp/malware.bin,explorer.exe,Pegasus Signature,0
+iPhone,iOS 14.6,Low,HTTP,9798,system,Login,749,266,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+iPhone,iOS 15.0,High,HTTPS,521,system,App Crash,73,802,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+Android,Android 10,High,SSH,8039,security,Login,187,892,/var/log/syslog,systemd,Pegasus Signature,1
+iPhone,Android 10,High,FTP,8065,security,File Access,204,763,/var/log/syslog,chrome.exe,None,1
+iPhone,Android 10,Low,HTTP,458,application,App Crash,753,508,/var/log/syslog,systemd,None,1
+Android,iOS 15.0,Low,FTP,729,system,Login,620,856,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,0
+Android,iOS 14.6,High,SSH,5265,system,System Update,989,395,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,Android 11,Normal,FTP,4825,application,App Install,171,836,/tmp/malware.bin,systemd,Known Malicious IP,1
+Android,Android 10,Normal,HTTPS,609,system,Login,889,257,/tmp/malware.bin,malware.exe,None,0
+Android,iOS 15.0,High,FTP,8526,application,App Install,690,863,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+iPhone,Android 10,Low,HTTP,773,system,App Crash,556,577,/tmp/malware.bin,chrome.exe,Pegasus Signature,0
+Android,Android 10,Low,HTTPS,2444,security,Login,785,518,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Low,HTTPS,4517,security,App Crash,398,529,/var/log/syslog,explorer.exe,None,1
+Android,iOS 15.0,Low,HTTP,3639,security,Login,762,245,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+Android,Android 10,Low,FTP,6243,security,App Crash,303,371,/tmp/malware.bin,chrome.exe,None,1
+Android,iOS 14.6,Low,HTTP,9793,system,Login,237,148,/var/log/syslog,malware.exe,Pegasus Signature,0
+iPhone,Android 10,Normal,HTTPS,7850,application,Login,859,969,/home/user/docs/report.docx,systemd,None,1
+Android,Android 11,Low,SSH,9578,security,App Install,148,423,/tmp/malware.bin,explorer.exe,None,1
+iPhone,Android 11,Low,FTP,3287,application,App Crash,767,782,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+Android,Android 11,High,FTP,3975,security,Login,839,291,/var/log/syslog,explorer.exe,Pegasus Signature,1
+iPhone,Android 11,High,FTP,6777,system,App Crash,58,434,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+Android,iOS 14.6,Normal,SSH,7801,application,Logout,656,240,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+Android,Android 11,Normal,FTP,635,security,Logout,374,395,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+iPhone,iOS 14.6,High,HTTPS,5357,security,App Crash,675,128,/var/log/syslog,systemd,Pegasus Signature,0
+iPhone,Android 11,Low,HTTP,6456,application,App Install,659,978,/var/log/syslog,systemd,Known Malicious IP,1
+Android,iOS 14.6,Low,SSH,6841,security,System Update,444,151,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+Android,iOS 15.0,High,HTTP,2064,system,Login,716,842,/var/log/syslog,systemd,Pegasus Signature,0
+iPhone,iOS 15.0,Low,FTP,2712,system,App Crash,759,282,/tmp/malware.bin,chrome.exe,Known Malicious IP,0
+iPhone,iOS 14.6,Low,SSH,3847,system,App Install,570,922,/var/log/syslog,chrome.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Low,HTTP,9712,application,System Update,184,258,/var/log/syslog,systemd,Pegasus Signature,1
+Android,iOS 14.6,Normal,HTTP,4195,system,App Install,262,882,/tmp/malware.bin,chrome.exe,None,0
+iPhone,iOS 15.0,Normal,FTP,7124,application,App Crash,251,933,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+Android,Android 11,Low,FTP,1552,system,Logout,319,962,/tmp/malware.bin,systemd,None,1
+iPhone,iOS 14.6,High,HTTP,2798,security,App Crash,858,827,/var/log/syslog,chrome.exe,Pegasus Signature,0
+iPhone,Android 10,High,FTP,4572,application,File Access,837,225,/home/user/docs/report.docx,malware.exe,None,1
+Android,iOS 15.0,High,HTTP,7145,application,System Update,346,911,/var/log/syslog,malware.exe,None,1
+iPhone,iOS 15.0,Low,FTP,3663,system,Logout,664,911,/home/user/docs/report.docx,chrome.exe,None,1
+iPhone,Android 11,Low,FTP,7766,security,Logout,848,133,/var/log/syslog,systemd,None,1
+iPhone,Android 10,Low,FTP,741,system,Login,482,193,/var/log/syslog,chrome.exe,Pegasus Signature,0
+iPhone,iOS 15.0,Normal,HTTP,1776,application,App Crash,820,739,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,1
+Android,iOS 15.0,Normal,HTTP,2592,security,System Update,64,889,/var/log/syslog,systemd,Pegasus Signature,1
+iPhone,iOS 15.0,High,HTTPS,7795,security,Login,793,247,/home/user/docs/report.docx,malware.exe,None,1
+iPhone,Android 10,Low,HTTP,8418,security,File Access,894,674,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+Android,iOS 14.6,High,FTP,7996,system,Login,265,461,/var/log/syslog,explorer.exe,Pegasus Signature,0
+iPhone,iOS 15.0,Normal,SSH,5198,system,File Access,713,123,/tmp/malware.bin,systemd,None,1
+Android,Android 10,High,HTTPS,9808,system,App Install,930,468,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,Android 11,Low,HTTP,8149,system,File Access,779,463,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+iPhone,Android 10,High,FTP,5307,application,Login,664,667,/home/user/docs/report.docx,malware.exe,None,1
+Android,Android 10,Low,SSH,9375,application,System Update,945,731,/var/log/syslog,chrome.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Normal,HTTP,7447,security,Login,757,849,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+Android,Android 10,Normal,HTTPS,3151,system,Logout,564,873,/var/log/syslog,systemd,Pegasus Signature,1
+Android,iOS 15.0,Low,SSH,2918,system,System Update,535,559,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Normal,HTTP,3978,application,App Install,453,245,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,0
+iPhone,iOS 15.0,Low,HTTPS,908,application,System Update,441,373,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,1
+iPhone,Android 11,Low,FTP,9051,security,Login,326,376,/var/log/syslog,chrome.exe,None,1
+iPhone,Android 10,Normal,HTTPS,2967,system,Login,889,665,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+Android,Android 11,Normal,HTTP,2138,application,App Install,451,687,/var/log/syslog,explorer.exe,None,1
+iPhone,Android 10,Low,SSH,5686,system,File Access,715,427,/var/log/syslog,explorer.exe,Pegasus Signature,0
+Android,iOS 14.6,Low,HTTPS,5368,application,File Access,246,850,/home/user/docs/report.docx,explorer.exe,None,1
+Android,Android 10,Normal,FTP,2094,application,Logout,498,737,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,iOS 14.6,High,FTP,8013,security,App Crash,801,888,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+Android,iOS 15.0,Normal,FTP,255,system,Logout,792,963,/var/log/syslog,explorer.exe,None,1
+iPhone,iOS 14.6,Low,SSH,9187,system,System Update,51,176,/tmp/malware.bin,systemd,None,1
+iPhone,Android 10,Normal,SSH,348,security,System Update,851,923,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+Android,Android 11,High,SSH,1307,system,Login,694,743,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,0
+iPhone,iOS 14.6,High,SSH,2086,security,Logout,62,539,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+Android,Android 11,Normal,HTTP,7333,application,Logout,487,699,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Normal,SSH,3042,application,App Install,239,480,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,iOS 14.6,Normal,SSH,2608,security,System Update,128,213,/var/log/syslog,malware.exe,Known Malicious IP,1
+Android,iOS 15.0,Low,FTP,2550,security,Login,960,255,/var/log/syslog,chrome.exe,Pegasus Signature,1
+Android,iOS 14.6,Low,HTTPS,3153,security,Logout,691,164,/var/log/syslog,systemd,Known Malicious IP,1
+Android,iOS 14.6,High,HTTP,2082,system,Logout,287,566,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,iOS 15.0,Normal,HTTP,7424,security,App Install,226,122,/tmp/malware.bin,systemd,Known Malicious IP,0
+Android,Android 11,Low,SSH,5279,system,App Install,951,686,/var/log/syslog,malware.exe,Pegasus Signature,1
+iPhone,iOS 15.0,High,SSH,7711,application,App Crash,357,634,/tmp/malware.bin,malware.exe,None,1
+Android,iOS 15.0,Normal,SSH,9589,system,App Crash,65,641,/tmp/malware.bin,chrome.exe,Pegasus Signature,0
+iPhone,iOS 15.0,Low,SSH,1501,security,System Update,358,640,/var/log/syslog,chrome.exe,None,1
+Android,Android 11,Low,SSH,425,security,Logout,942,351,/var/log/syslog,explorer.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Normal,HTTP,2613,system,File Access,721,783,/var/log/syslog,malware.exe,None,1
+iPhone,iOS 14.6,Normal,HTTP,7267,application,Logout,436,372,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,Android 10,High,HTTP,5467,system,App Crash,735,428,/tmp/malware.bin,systemd,Pegasus Signature,1
+iPhone,Android 11,High,HTTPS,6971,system,System Update,252,214,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+Android,iOS 15.0,High,SSH,9182,security,App Install,670,289,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Normal,FTP,1203,security,App Install,836,998,/var/log/syslog,systemd,Known Malicious IP,0
+iPhone,Android 10,Normal,SSH,4482,application,App Install,224,610,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,1
+Android,Android 11,Normal,HTTPS,9894,security,Logout,557,653,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+iPhone,Android 10,Normal,HTTP,2490,security,App Crash,322,574,/home/user/docs/report.docx,malware.exe,Known Malicious IP,0
+iPhone,Android 11,High,FTP,5017,application,App Crash,52,951,/home/user/docs/report.docx,malware.exe,None,1
+Android,iOS 15.0,High,HTTPS,7499,system,System Update,666,598,/tmp/malware.bin,systemd,Known Malicious IP,1
+iPhone,iOS 15.0,High,HTTP,8647,application,System Update,119,554,/var/log/syslog,malware.exe,None,1
+Android,Android 11,Normal,FTP,5916,system,File Access,113,262,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,0
+Android,Android 10,Normal,HTTPS,539,security,Login,217,660,/tmp/malware.bin,chrome.exe,Known Malicious IP,0
+iPhone,iOS 15.0,Low,SSH,6347,system,Login,686,487,/var/log/syslog,malware.exe,Pegasus Signature,1
+Android,Android 10,Normal,SSH,6297,security,App Crash,356,438,/tmp/malware.bin,explorer.exe,None,1
+Android,Android 10,Low,HTTPS,6197,application,App Crash,277,457,/tmp/malware.bin,malware.exe,Known Malicious IP,0
+iPhone,Android 10,Normal,HTTPS,7174,application,Login,326,518,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+Android,Android 10,High,SSH,3301,application,Login,459,652,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Normal,SSH,9011,security,App Install,126,754,/var/log/syslog,malware.exe,Pegasus Signature,0
+Android,Android 11,Low,HTTPS,4381,application,Login,638,639,/home/user/docs/report.docx,systemd,None,1
+Android,Android 10,High,SSH,8508,application,App Install,295,255,/home/user/docs/report.docx,systemd,Known Malicious IP,0
+Android,Android 10,High,SSH,1934,security,App Install,735,965,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Low,HTTPS,1024,security,File Access,178,687,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+Android,Android 10,High,SSH,2876,system,System Update,512,736,/var/log/syslog,malware.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Normal,SSH,2036,security,System Update,481,936,/tmp/malware.bin,malware.exe,Pegasus Signature,0
+Android,Android 10,Low,FTP,8763,application,Login,919,202,/tmp/malware.bin,malware.exe,Pegasus Signature,0
+iPhone,Android 11,Normal,HTTPS,2335,security,System Update,494,183,/tmp/malware.bin,malware.exe,None,1
+Android,Android 11,Low,HTTP,425,security,File Access,539,447,/tmp/malware.bin,systemd,None,1
+iPhone,Android 11,High,HTTP,5845,system,App Install,238,197,/home/user/docs/report.docx,explorer.exe,None,1
+iPhone,Android 11,High,FTP,6722,system,App Install,1000,892,/var/log/syslog,malware.exe,Known Malicious IP,1
+Android,iOS 15.0,Low,SSH,6010,system,App Install,598,436,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+Android,iOS 15.0,High,SSH,6816,application,File Access,11,773,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,Android 10,Low,FTP,2831,security,Logout,246,948,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,Android 11,High,SSH,9991,application,App Crash,454,592,/tmp/malware.bin,malware.exe,Known Malicious IP,0
+iPhone,iOS 15.0,High,SSH,5654,application,Login,970,449,/tmp/malware.bin,chrome.exe,None,1
+iPhone,iOS 14.6,High,FTP,656,security,Login,777,610,/var/log/syslog,systemd,Pegasus Signature,0
+iPhone,iOS 15.0,Normal,SSH,3322,application,System Update,34,244,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+Android,iOS 14.6,Low,HTTPS,8818,security,App Crash,971,250,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+iPhone,Android 11,Low,HTTPS,8253,application,App Crash,615,421,/home/user/docs/report.docx,systemd,None,0
+iPhone,Android 10,Low,HTTPS,8534,application,Login,862,327,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+iPhone,iOS 14.6,High,HTTPS,2745,application,Login,110,957,/tmp/malware.bin,malware.exe,None,1
+iPhone,iOS 14.6,High,HTTPS,3630,application,App Install,808,773,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Low,HTTPS,7487,system,App Install,680,273,/tmp/malware.bin,explorer.exe,Pegasus Signature,0
+Android,Android 10,High,FTP,8437,application,App Crash,470,813,/home/user/docs/report.docx,systemd,None,1
+Android,Android 10,Normal,SSH,6564,application,Login,949,676,/var/log/syslog,explorer.exe,Known Malicious IP,1
+Android,iOS 14.6,High,FTP,5365,application,Login,65,826,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+iPhone,Android 11,Normal,SSH,6151,security,App Crash,924,637,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,Android 11,High,HTTP,6264,system,File Access,333,329,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+Android,iOS 14.6,Low,HTTPS,4718,security,Logout,961,472,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+Android,Android 10,Normal,HTTP,1837,system,Logout,149,758,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+iPhone,iOS 14.6,High,SSH,8164,system,System Update,73,829,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,0
+iPhone,iOS 14.6,Low,HTTPS,3344,system,Login,718,173,/var/log/syslog,systemd,Pegasus Signature,1
+iPhone,iOS 15.0,Low,SSH,6761,security,App Install,903,565,/var/log/syslog,systemd,None,1
+iPhone,iOS 15.0,Normal,HTTPS,2085,system,App Crash,642,909,/var/log/syslog,explorer.exe,None,1
+iPhone,Android 10,High,FTP,9877,security,Logout,639,925,/home/user/docs/report.docx,malware.exe,None,1
+iPhone,iOS 15.0,Low,HTTPS,7602,system,System Update,918,115,/tmp/malware.bin,explorer.exe,None,1
+Android,iOS 14.6,Low,HTTPS,4237,system,Logout,347,539,/var/log/syslog,systemd,Known Malicious IP,0
+iPhone,iOS 14.6,Low,HTTP,7130,security,App Install,96,553,/tmp/malware.bin,malware.exe,None,0
+Android,Android 10,Normal,SSH,8873,security,Logout,349,949,/tmp/malware.bin,malware.exe,None,1
+Android,iOS 15.0,Normal,SSH,1763,security,App Install,853,443,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,0
+iPhone,iOS 14.6,High,HTTP,4053,application,File Access,748,829,/tmp/malware.bin,chrome.exe,None,1
+Android,iOS 15.0,Low,HTTPS,384,application,File Access,750,110,/tmp/malware.bin,systemd,None,0
+iPhone,Android 10,Normal,HTTP,9022,security,App Install,637,311,/var/log/syslog,explorer.exe,Known Malicious IP,0
+iPhone,Android 10,High,HTTP,8728,security,Logout,106,195,/tmp/malware.bin,systemd,Pegasus Signature,1
+iPhone,Android 11,Normal,HTTPS,3822,security,Logout,865,730,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Low,FTP,5200,application,App Install,651,454,/var/log/syslog,systemd,Pegasus Signature,1
+Android,iOS 15.0,Low,HTTPS,6666,system,File Access,333,427,/var/log/syslog,explorer.exe,Pegasus Signature,1
+iPhone,Android 11,High,HTTPS,5176,system,Logout,779,438,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+Android,iOS 15.0,Normal,SSH,5328,system,App Install,495,268,/var/log/syslog,malware.exe,None,1
+Android,Android 10,Normal,FTP,3159,system,File Access,394,820,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Normal,FTP,1225,security,App Install,422,271,/tmp/malware.bin,systemd,None,1
+iPhone,iOS 14.6,Normal,SSH,7715,application,App Install,729,385,/tmp/malware.bin,systemd,Known Malicious IP,0
+Android,iOS 14.6,Low,FTP,6866,system,App Install,922,373,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+iPhone,Android 11,Normal,FTP,6222,security,System Update,733,513,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Normal,FTP,2970,application,App Crash,866,375,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+iPhone,Android 10,Normal,HTTP,1879,system,Login,941,625,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+Android,iOS 15.0,Low,HTTP,4016,security,Login,108,797,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+Android,Android 10,Low,SSH,6979,application,App Crash,745,580,/var/log/syslog,explorer.exe,Known Malicious IP,0
+iPhone,iOS 14.6,Low,SSH,8338,system,Logout,562,796,/tmp/malware.bin,systemd,Known Malicious IP,1
+iPhone,iOS 15.0,Normal,HTTPS,7680,security,Logout,363,707,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+Android,iOS 15.0,Low,HTTP,755,security,File Access,754,348,/tmp/malware.bin,explorer.exe,Pegasus Signature,0
+Android,Android 11,Low,FTP,8412,system,App Install,935,629,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+Android,Android 11,Low,FTP,8073,application,App Install,318,578,/home/user/docs/report.docx,chrome.exe,None,1
+iPhone,iOS 15.0,Low,HTTP,6757,security,Login,176,854,/home/user/docs/report.docx,explorer.exe,None,0
+iPhone,iOS 14.6,Normal,FTP,1071,security,File Access,778,859,/var/log/syslog,malware.exe,Pegasus Signature,1
+Android,Android 10,Normal,HTTP,6134,application,App Install,871,967,/var/log/syslog,malware.exe,None,1
+Android,Android 11,High,HTTPS,7643,application,App Crash,79,910,/home/user/docs/report.docx,explorer.exe,None,1
+iPhone,iOS 15.0,Normal,HTTPS,900,system,System Update,934,560,/tmp/malware.bin,systemd,Known Malicious IP,0
+Android,Android 10,High,FTP,1667,application,Login,503,582,/var/log/syslog,malware.exe,Known Malicious IP,1
+iPhone,Android 10,Normal,FTP,6788,system,Logout,606,326,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+Android,Android 11,High,FTP,9517,application,Logout,174,778,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+Android,Android 10,Normal,HTTPS,2029,system,App Install,163,984,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+Android,iOS 14.6,Low,SSH,9571,security,System Update,729,896,/tmp/malware.bin,systemd,Pegasus Signature,1
+iPhone,Android 11,High,SSH,7251,application,System Update,565,308,/var/log/syslog,chrome.exe,None,1
+iPhone,iOS 14.6,Normal,HTTP,7144,application,System Update,211,403,/tmp/malware.bin,explorer.exe,Pegasus Signature,0
+iPhone,Android 10,Normal,SSH,929,application,File Access,204,315,/var/log/syslog,systemd,Known Malicious IP,0
+Android,iOS 15.0,High,FTP,9096,security,App Install,462,162,/tmp/malware.bin,chrome.exe,None,1
+Android,iOS 15.0,High,SSH,822,system,Logout,856,191,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+iPhone,Android 11,Normal,HTTPS,1756,system,App Crash,40,824,/var/log/syslog,explorer.exe,Pegasus Signature,0
+Android,Android 10,High,FTP,2349,security,Logout,805,137,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,iOS 14.6,High,FTP,9490,application,System Update,686,795,/var/log/syslog,explorer.exe,None,1
+Android,Android 11,Low,FTP,6514,system,Login,803,761,/var/log/syslog,malware.exe,Pegasus Signature,0
+Android,iOS 14.6,High,FTP,4735,system,Logout,254,759,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+Android,iOS 14.6,High,HTTP,487,application,System Update,207,126,/var/log/syslog,systemd,None,1
+Android,iOS 14.6,High,HTTP,7454,security,App Install,178,498,/tmp/malware.bin,systemd,Known Malicious IP,1
+iPhone,Android 11,High,HTTP,7314,system,App Install,849,174,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,0
+Android,Android 10,High,FTP,183,security,App Install,873,276,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+iPhone,Android 11,Normal,FTP,9822,system,File Access,681,549,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,iOS 15.0,High,HTTPS,8234,application,App Crash,769,327,/tmp/malware.bin,explorer.exe,None,0
+iPhone,Android 11,Normal,SSH,7614,application,Login,417,604,/home/user/docs/report.docx,systemd,Known Malicious IP,0
+Android,Android 11,Low,HTTPS,3111,application,File Access,604,114,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,iOS 15.0,Low,HTTPS,8990,application,App Install,744,676,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+iPhone,Android 10,Low,FTP,8640,application,System Update,302,868,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,0
+iPhone,iOS 15.0,Low,FTP,366,application,App Crash,471,772,/var/log/syslog,systemd,Pegasus Signature,1
+iPhone,iOS 14.6,Low,HTTPS,1569,application,Login,504,205,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+iPhone,Android 10,High,SSH,7734,system,App Install,482,420,/tmp/malware.bin,malware.exe,Pegasus Signature,0
+iPhone,iOS 14.6,High,SSH,3304,security,App Crash,581,879,/tmp/malware.bin,systemd,None,1
+Android,Android 11,High,FTP,3016,system,Logout,727,169,/tmp/malware.bin,systemd,None,1
+Android,Android 10,High,FTP,3153,system,Login,577,613,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,0
+iPhone,Android 11,Normal,HTTPS,959,application,File Access,435,881,/home/user/docs/report.docx,explorer.exe,None,1
+Android,iOS 14.6,Low,FTP,7212,security,File Access,692,843,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+Android,iOS 15.0,Low,HTTPS,2506,application,App Crash,208,963,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,0
+iPhone,Android 10,Normal,HTTP,3808,system,App Install,93,500,/tmp/malware.bin,systemd,Pegasus Signature,1
+iPhone,iOS 15.0,High,FTP,4199,application,App Crash,38,142,/home/user/docs/report.docx,malware.exe,None,1
+iPhone,iOS 14.6,High,HTTPS,7387,application,App Install,421,275,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+iPhone,iOS 15.0,High,FTP,4312,security,Login,301,979,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,0
+iPhone,iOS 15.0,Low,HTTP,6058,security,Login,960,359,/var/log/syslog,chrome.exe,None,1
+iPhone,iOS 15.0,Low,HTTPS,2663,system,Logout,546,917,/var/log/syslog,chrome.exe,None,1
+Android,Android 10,Normal,HTTPS,4606,application,Logout,305,736,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,0
+iPhone,Android 10,Normal,HTTP,3351,system,Logout,95,655,/tmp/malware.bin,systemd,Known Malicious IP,0
+Android,Android 11,Normal,FTP,8192,security,Logout,428,554,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+iPhone,Android 10,Normal,HTTP,3518,application,App Crash,511,859,/home/user/docs/report.docx,explorer.exe,None,0
+Android,iOS 14.6,Normal,HTTPS,4865,system,System Update,48,495,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+iPhone,Android 11,High,HTTPS,2745,application,File Access,478,742,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,Android 11,Normal,FTP,4390,application,System Update,165,971,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+iPhone,iOS 15.0,Normal,FTP,2806,security,System Update,279,125,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+Android,Android 10,High,SSH,3441,system,File Access,89,537,/var/log/syslog,malware.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Low,FTP,1761,system,Login,351,297,/var/log/syslog,malware.exe,Pegasus Signature,1
+iPhone,iOS 14.6,High,SSH,6832,system,Logout,551,965,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Low,HTTPS,6600,security,App Install,730,697,/var/log/syslog,systemd,Pegasus Signature,1
+Android,iOS 15.0,Low,SSH,9676,system,App Install,772,983,/tmp/malware.bin,chrome.exe,Pegasus Signature,0
+Android,iOS 14.6,Low,SSH,720,security,System Update,758,535,/var/log/syslog,malware.exe,None,1
+Android,iOS 15.0,Low,FTP,490,application,App Crash,578,318,/home/user/docs/report.docx,systemd,None,1
+Android,Android 10,Low,FTP,5280,application,App Crash,656,904,/tmp/malware.bin,malware.exe,Known Malicious IP,0
+iPhone,iOS 14.6,Normal,HTTP,182,application,App Install,858,843,/var/log/syslog,malware.exe,Known Malicious IP,1
+iPhone,Android 10,Normal,HTTPS,3320,application,File Access,382,607,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+Android,Android 11,Normal,HTTP,4561,security,System Update,218,513,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+iPhone,Android 11,Normal,FTP,4043,security,Login,23,272,/tmp/malware.bin,systemd,Pegasus Signature,1
+iPhone,Android 10,High,SSH,4140,system,Logout,182,823,/tmp/malware.bin,malware.exe,None,1
+iPhone,iOS 15.0,Low,FTP,4529,system,App Install,919,227,/var/log/syslog,chrome.exe,Known Malicious IP,1
+iPhone,Android 11,High,HTTPS,6967,security,Login,688,791,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+Android,iOS 15.0,Low,SSH,7513,security,File Access,239,221,/tmp/malware.bin,systemd,None,1
+Android,iOS 15.0,Low,HTTP,7548,application,App Crash,928,912,/var/log/syslog,systemd,None,1
+Android,iOS 15.0,Normal,SSH,2002,application,File Access,877,176,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+iPhone,Android 10,Low,SSH,1527,security,Logout,955,288,/var/log/syslog,malware.exe,Pegasus Signature,1
+Android,Android 10,Low,HTTPS,2339,system,Login,841,122,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+Android,iOS 14.6,Low,FTP,8234,application,App Crash,253,610,/var/log/syslog,chrome.exe,None,1
+iPhone,Android 10,Normal,HTTP,8316,system,App Crash,525,254,/var/log/syslog,chrome.exe,Pegasus Signature,1
+Android,iOS 15.0,Low,HTTP,5848,application,Login,86,196,/tmp/malware.bin,malware.exe,None,1
+Android,iOS 14.6,High,SSH,2536,security,App Install,933,368,/tmp/malware.bin,chrome.exe,Pegasus Signature,0
+Android,iOS 14.6,Low,HTTPS,7673,system,App Install,107,834,/tmp/malware.bin,chrome.exe,Known Malicious IP,0
+iPhone,Android 11,Normal,HTTP,5778,system,System Update,91,685,/var/log/syslog,malware.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Normal,SSH,6992,security,App Install,953,412,/var/log/syslog,explorer.exe,None,0
+Android,Android 11,High,HTTP,6680,system,System Update,367,305,/var/log/syslog,systemd,Pegasus Signature,0
+Android,Android 10,Normal,FTP,9771,security,File Access,480,334,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+Android,Android 10,Low,SSH,2091,security,File Access,978,759,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+Android,iOS 14.6,Normal,SSH,4966,security,Logout,174,123,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+Android,Android 10,Low,FTP,4555,application,Logout,939,129,/home/user/docs/report.docx,malware.exe,None,1
+Android,Android 10,Normal,HTTP,2927,security,App Install,682,649,/var/log/syslog,explorer.exe,Known Malicious IP,1
+iPhone,Android 10,Low,FTP,577,system,Login,699,732,/home/user/docs/report.docx,malware.exe,Known Malicious IP,0
+iPhone,Android 11,High,FTP,2053,application,App Install,883,631,/var/log/syslog,systemd,Known Malicious IP,1
+iPhone,iOS 14.6,High,HTTP,9827,security,App Install,612,509,/tmp/malware.bin,systemd,Known Malicious IP,1
+Android,iOS 15.0,Normal,HTTP,4162,application,System Update,727,803,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,iOS 14.6,Normal,HTTPS,441,system,System Update,791,872,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,0
+iPhone,iOS 15.0,Normal,HTTP,2112,security,Login,977,946,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+Android,Android 10,Normal,HTTP,1251,application,App Crash,906,401,/home/user/docs/report.docx,systemd,None,1
+iPhone,iOS 15.0,Low,SSH,5210,security,Login,159,463,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+Android,Android 11,Low,HTTPS,8051,system,App Crash,832,165,/tmp/malware.bin,systemd,None,1
+Android,iOS 15.0,Normal,HTTP,2435,system,App Install,476,252,/home/user/docs/report.docx,explorer.exe,None,1
+Android,Android 11,Low,FTP,1429,system,App Crash,895,160,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,iOS 15.0,High,HTTP,9671,application,Logout,584,386,/home/user/docs/report.docx,chrome.exe,None,1
+Android,iOS 14.6,Low,HTTP,2908,security,Login,7,420,/tmp/malware.bin,explorer.exe,Known Malicious IP,0
+iPhone,iOS 15.0,High,HTTPS,9155,system,App Crash,652,778,/tmp/malware.bin,chrome.exe,None,1
+iPhone,Android 11,High,HTTPS,7715,security,System Update,481,699,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+Android,iOS 14.6,Low,HTTP,1127,system,Login,810,594,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,iOS 14.6,Normal,SSH,7380,application,File Access,688,231,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+Android,Android 10,Normal,SSH,1696,system,Login,166,150,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+Android,Android 11,High,SSH,2119,system,System Update,437,726,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+iPhone,Android 11,Low,FTP,8628,security,App Crash,705,662,/tmp/malware.bin,malware.exe,None,1
+Android,iOS 15.0,Low,HTTP,7471,application,App Crash,258,766,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+iPhone,iOS 15.0,Normal,SSH,3925,security,App Install,993,331,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,Android 10,Normal,HTTP,7675,system,System Update,763,520,/var/log/syslog,explorer.exe,Known Malicious IP,0
+Android,iOS 15.0,Normal,SSH,9906,application,Login,10,849,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,Android 10,Low,HTTP,5616,system,App Crash,211,798,/var/log/syslog,chrome.exe,Pegasus Signature,1
+Android,iOS 15.0,High,SSH,6062,system,App Install,807,592,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Normal,FTP,961,application,App Crash,645,441,/home/user/docs/report.docx,chrome.exe,None,0
+Android,Android 11,High,SSH,9618,system,Login,520,289,/home/user/docs/report.docx,chrome.exe,None,1
+iPhone,iOS 14.6,Normal,FTP,6002,system,App Install,97,290,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+iPhone,Android 10,Normal,FTP,2243,system,Login,922,195,/home/user/docs/report.docx,systemd,Pegasus Signature,0
+Android,iOS 15.0,Low,HTTP,4539,security,App Crash,956,472,/var/log/syslog,systemd,Known Malicious IP,1
+iPhone,iOS 14.6,High,SSH,7082,security,Login,859,330,/tmp/malware.bin,chrome.exe,None,1
+Android,iOS 15.0,Low,HTTP,8955,security,Logout,715,105,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+Android,Android 10,Normal,SSH,1675,application,System Update,471,160,/var/log/syslog,chrome.exe,None,1
+iPhone,Android 11,Low,SSH,9614,application,Logout,392,538,/var/log/syslog,explorer.exe,None,0
+Android,Android 11,Low,SSH,3947,application,File Access,469,715,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+Android,iOS 14.6,High,HTTP,7685,system,App Install,418,777,/tmp/malware.bin,systemd,Pegasus Signature,1
+iPhone,Android 10,Normal,HTTP,6101,application,Logout,56,664,/var/log/syslog,explorer.exe,Known Malicious IP,1
+iPhone,Android 10,Normal,SSH,3281,application,App Crash,168,874,/var/log/syslog,explorer.exe,None,1
+Android,iOS 15.0,Low,FTP,1069,system,App Crash,74,464,/var/log/syslog,malware.exe,Known Malicious IP,1
+iPhone,Android 11,Normal,HTTPS,1836,system,Logout,353,208,/home/user/docs/report.docx,chrome.exe,None,1
+iPhone,Android 10,Normal,FTP,4218,application,Logout,376,300,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+Android,Android 11,Normal,SSH,8417,application,App Install,517,577,/var/log/syslog,explorer.exe,Pegasus Signature,1
+Android,Android 10,Normal,FTP,7434,application,App Crash,195,138,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,Android 11,High,HTTP,3176,security,Logout,178,705,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+Android,Android 10,Normal,HTTP,9956,security,App Install,138,335,/tmp/malware.bin,chrome.exe,None,0
+Android,iOS 14.6,Low,FTP,5753,security,App Crash,52,488,/home/user/docs/report.docx,chrome.exe,None,1
+iPhone,Android 10,Low,FTP,8800,security,App Crash,794,863,/var/log/syslog,chrome.exe,Known Malicious IP,1
+iPhone,Android 11,Low,FTP,1273,system,Login,250,598,/var/log/syslog,chrome.exe,Pegasus Signature,1
+iPhone,Android 10,Low,FTP,6861,security,App Crash,852,877,/var/log/syslog,systemd,None,1
+iPhone,Android 11,Low,FTP,7954,system,Logout,851,104,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,0
+Android,Android 11,Low,HTTP,2843,system,Logout,205,672,/home/user/docs/report.docx,systemd,None,1
+iPhone,Android 11,Low,SSH,5287,system,Login,734,614,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+iPhone,Android 10,High,HTTP,5729,application,Login,77,690,/var/log/syslog,systemd,Pegasus Signature,1
+Android,Android 10,Normal,SSH,6572,application,App Crash,854,955,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Normal,HTTPS,8660,application,App Install,269,447,/tmp/malware.bin,explorer.exe,None,1
+Android,iOS 14.6,Normal,HTTPS,5933,application,Login,925,627,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+iPhone,Android 10,Low,HTTP,8691,security,File Access,154,373,/var/log/syslog,systemd,None,1
+Android,iOS 15.0,Low,HTTPS,9740,system,Login,490,633,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+Android,iOS 14.6,High,HTTP,7382,system,App Crash,513,581,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,Android 11,High,SSH,9695,application,Logout,423,624,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,iOS 14.6,Normal,HTTPS,7241,security,File Access,284,717,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,1
+Android,iOS 15.0,High,HTTPS,1682,security,Login,190,243,/var/log/syslog,chrome.exe,Known Malicious IP,1
+Android,Android 11,Low,HTTPS,8274,security,App Crash,220,198,/home/user/docs/report.docx,explorer.exe,None,1
+iPhone,iOS 15.0,High,SSH,1017,system,File Access,580,366,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Normal,HTTPS,3809,security,App Install,393,640,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+iPhone,iOS 15.0,High,SSH,5885,system,File Access,987,507,/tmp/malware.bin,malware.exe,None,1
+Android,iOS 14.6,Normal,SSH,5386,security,App Crash,162,341,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+iPhone,Android 11,Low,SSH,3525,application,App Crash,949,103,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+Android,Android 11,Normal,SSH,2578,application,Login,490,549,/var/log/syslog,chrome.exe,None,1
+iPhone,Android 10,Low,FTP,1084,system,Logout,193,256,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+iPhone,iOS 14.6,High,FTP,4278,security,Logout,367,225,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+iPhone,iOS 14.6,Low,HTTPS,6676,application,File Access,258,919,/var/log/syslog,malware.exe,Known Malicious IP,1
+iPhone,Android 11,High,SSH,4765,security,System Update,12,194,/var/log/syslog,explorer.exe,Known Malicious IP,1
+Android,Android 10,Normal,HTTPS,5916,system,File Access,467,758,/tmp/malware.bin,malware.exe,Pegasus Signature,0
+iPhone,iOS 14.6,High,FTP,6591,system,Login,866,719,/tmp/malware.bin,chrome.exe,Pegasus Signature,0
+iPhone,iOS 14.6,Low,SSH,511,security,Logout,61,505,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+Android,iOS 15.0,High,HTTP,3558,system,App Crash,986,934,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+iPhone,Android 11,High,FTP,2401,application,Logout,886,141,/var/log/syslog,chrome.exe,None,1
+Android,Android 10,Low,HTTP,2401,security,System Update,86,488,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+Android,iOS 15.0,High,HTTPS,5968,system,System Update,226,319,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+Android,iOS 15.0,Low,HTTP,5168,application,File Access,691,206,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+Android,iOS 14.6,Low,HTTP,8703,security,File Access,713,768,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Normal,HTTPS,9215,security,Login,312,709,/var/log/syslog,malware.exe,Pegasus Signature,1
+Android,Android 10,Normal,HTTPS,9615,system,File Access,328,468,/var/log/syslog,systemd,None,1
+Android,Android 11,Normal,FTP,1221,application,System Update,169,165,/var/log/syslog,explorer.exe,None,1
+Android,Android 10,High,HTTP,1091,application,App Install,178,215,/tmp/malware.bin,systemd,None,1
+iPhone,iOS 15.0,High,HTTPS,1036,security,App Crash,446,356,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,Android 10,Normal,SSH,9216,system,File Access,570,616,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+iPhone,Android 11,Low,HTTP,4369,security,File Access,487,169,/home/user/docs/report.docx,chrome.exe,None,1
+iPhone,iOS 15.0,High,FTP,492,security,Logout,26,751,/var/log/syslog,explorer.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Normal,SSH,6317,system,File Access,455,452,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Low,HTTPS,6030,system,App Crash,60,339,/var/log/syslog,explorer.exe,None,1
+iPhone,iOS 15.0,High,HTTPS,6619,application,App Install,890,806,/home/user/docs/report.docx,malware.exe,None,1
+Android,Android 10,Normal,FTP,2303,application,System Update,834,131,/tmp/malware.bin,systemd,Pegasus Signature,1
+iPhone,iOS 14.6,High,SSH,2283,security,System Update,864,709,/var/log/syslog,malware.exe,Pegasus Signature,0
+Android,iOS 14.6,High,HTTPS,459,application,App Crash,557,405,/var/log/syslog,chrome.exe,None,1
+iPhone,Android 11,High,FTP,9468,application,System Update,815,803,/home/user/docs/report.docx,malware.exe,None,0
+Android,iOS 15.0,Low,HTTP,1142,security,App Install,643,208,/var/log/syslog,explorer.exe,None,1
+iPhone,Android 10,Low,FTP,9073,system,File Access,26,962,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Low,HTTPS,4170,application,Login,292,991,/tmp/malware.bin,chrome.exe,None,1
+iPhone,iOS 15.0,Low,HTTPS,6818,application,App Install,270,552,/var/log/syslog,systemd,Known Malicious IP,1
+Android,Android 11,High,HTTP,5417,system,App Install,89,479,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,iOS 14.6,High,HTTPS,7646,system,App Install,589,609,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+Android,Android 10,Low,FTP,4174,application,Login,672,588,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,iOS 15.0,Normal,HTTPS,2158,security,Logout,422,921,/var/log/syslog,malware.exe,Pegasus Signature,1
+Android,iOS 14.6,Normal,FTP,6913,application,File Access,650,408,/tmp/malware.bin,systemd,Pegasus Signature,1
+iPhone,Android 10,Normal,HTTPS,2849,security,App Install,633,896,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+iPhone,iOS 14.6,High,SSH,9361,system,App Crash,40,945,/tmp/malware.bin,malware.exe,Pegasus Signature,0
+Android,Android 10,High,SSH,2732,system,App Crash,164,365,/var/log/syslog,chrome.exe,None,0
+Android,iOS 14.6,Normal,SSH,4629,system,Logout,195,341,/var/log/syslog,explorer.exe,Pegasus Signature,0
+iPhone,iOS 15.0,Low,FTP,4145,system,Logout,485,470,/var/log/syslog,explorer.exe,None,0
+Android,Android 10,High,SSH,6068,application,App Install,534,903,/tmp/malware.bin,explorer.exe,None,1
+iPhone,iOS 14.6,High,HTTPS,6138,application,App Install,10,315,/tmp/malware.bin,malware.exe,Known Malicious IP,0
+Android,Android 11,Normal,HTTPS,2180,application,App Crash,643,657,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,Android 10,Normal,SSH,3535,system,Login,893,606,/var/log/syslog,explorer.exe,Pegasus Signature,0
+Android,iOS 15.0,Low,FTP,4955,application,Login,44,455,/tmp/malware.bin,explorer.exe,None,1
+iPhone,Android 10,High,FTP,8983,security,File Access,956,764,/home/user/docs/report.docx,malware.exe,None,1
+Android,iOS 14.6,Normal,HTTP,7258,system,Login,208,596,/var/log/syslog,chrome.exe,None,1
+Android,iOS 14.6,Low,HTTP,1461,security,App Install,199,839,/var/log/syslog,systemd,Known Malicious IP,1
+Android,Android 10,Low,HTTP,2537,system,App Install,211,989,/home/user/docs/report.docx,systemd,Pegasus Signature,0
+Android,iOS 14.6,Low,SSH,6868,system,File Access,812,737,/var/log/syslog,explorer.exe,Known Malicious IP,0
+iPhone,Android 11,Normal,SSH,2564,system,Login,506,623,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+iPhone,Android 10,High,HTTPS,1415,system,App Install,959,559,/var/log/syslog,chrome.exe,Pegasus Signature,1
+Android,iOS 14.6,Low,FTP,610,system,System Update,410,679,/tmp/malware.bin,chrome.exe,Known Malicious IP,0
+Android,Android 10,Low,HTTP,8974,security,App Crash,365,202,/var/log/syslog,explorer.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Low,FTP,3761,system,App Install,486,846,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,iOS 15.0,High,FTP,5826,application,System Update,979,490,/home/user/docs/report.docx,chrome.exe,None,1
+Android,iOS 14.6,Low,SSH,8466,system,File Access,220,994,/var/log/syslog,systemd,Pegasus Signature,0
+iPhone,iOS 14.6,Normal,FTP,1981,application,Login,676,247,/var/log/syslog,malware.exe,None,1
+Android,Android 11,Normal,FTP,3093,system,File Access,247,459,/tmp/malware.bin,chrome.exe,Known Malicious IP,0
+iPhone,Android 11,High,HTTPS,2335,security,File Access,250,942,/tmp/malware.bin,systemd,Known Malicious IP,0
+iPhone,iOS 14.6,High,HTTPS,118,security,System Update,852,516,/var/log/syslog,malware.exe,None,1
+Android,iOS 15.0,Normal,HTTP,2757,application,App Crash,425,810,/home/user/docs/report.docx,malware.exe,Known Malicious IP,0
+Android,Android 11,Normal,SSH,3196,application,Logout,13,977,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,iOS 14.6,Normal,SSH,1506,security,System Update,880,275,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+Android,iOS 15.0,High,FTP,2005,application,File Access,104,180,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Low,HTTPS,7817,application,System Update,909,140,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+Android,Android 10,Low,HTTP,3118,system,System Update,261,422,/home/user/docs/report.docx,malware.exe,None,1
+iPhone,iOS 14.6,Low,FTP,4592,application,File Access,728,938,/home/user/docs/report.docx,malware.exe,Pegasus Signature,0
+Android,Android 11,Low,HTTP,2718,system,App Crash,325,175,/var/log/syslog,malware.exe,Pegasus Signature,1
+Android,iOS 14.6,Low,HTTP,8689,application,Login,277,981,/tmp/malware.bin,chrome.exe,Known Malicious IP,0
+iPhone,Android 11,Normal,SSH,7117,system,Logout,737,507,/tmp/malware.bin,systemd,Known Malicious IP,1
+Android,iOS 15.0,Normal,SSH,2670,security,Login,447,339,/var/log/syslog,systemd,Pegasus Signature,1
+iPhone,iOS 14.6,High,FTP,4870,application,Login,394,259,/var/log/syslog,malware.exe,Known Malicious IP,1
+iPhone,Android 10,High,HTTPS,1560,security,Logout,392,614,/var/log/syslog,malware.exe,None,1
+iPhone,Android 10,High,HTTPS,1800,application,Login,932,953,/tmp/malware.bin,systemd,Pegasus Signature,1
+iPhone,iOS 14.6,High,SSH,6163,security,File Access,602,359,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Low,HTTP,2043,system,System Update,756,926,/var/log/syslog,chrome.exe,Known Malicious IP,1
+Android,Android 10,Normal,SSH,243,application,App Install,408,784,/var/log/syslog,malware.exe,Pegasus Signature,1
+Android,Android 10,Low,HTTP,7246,application,File Access,217,747,/var/log/syslog,malware.exe,Pegasus Signature,1
+iPhone,Android 10,High,HTTP,3473,system,App Install,968,992,/tmp/malware.bin,systemd,None,1
+Android,Android 11,High,FTP,4272,security,System Update,216,625,/tmp/malware.bin,chrome.exe,Pegasus Signature,0
+iPhone,Android 10,High,FTP,4492,application,App Crash,480,691,/var/log/syslog,chrome.exe,Known Malicious IP,1
+Android,iOS 14.6,Low,FTP,5517,security,File Access,176,863,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+iPhone,Android 10,High,HTTP,8897,security,File Access,297,835,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+Android,iOS 14.6,High,FTP,1856,application,Login,16,273,/var/log/syslog,chrome.exe,Known Malicious IP,1
+iPhone,Android 10,Normal,SSH,8918,security,App Crash,819,360,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+iPhone,iOS 14.6,Normal,FTP,2660,application,File Access,111,542,/var/log/syslog,explorer.exe,Pegasus Signature,0
+Android,iOS 15.0,Normal,SSH,5598,application,System Update,293,496,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+Android,iOS 14.6,Low,HTTPS,9107,system,App Install,957,790,/var/log/syslog,systemd,Pegasus Signature,1
+iPhone,iOS 15.0,Normal,HTTPS,121,application,App Crash,982,568,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,0
+iPhone,Android 11,Low,HTTP,4170,system,System Update,519,509,/var/log/syslog,systemd,None,0
+iPhone,iOS 15.0,Low,SSH,9163,application,App Crash,376,589,/var/log/syslog,systemd,Known Malicious IP,1
+iPhone,iOS 15.0,Low,FTP,805,system,App Install,279,382,/var/log/syslog,chrome.exe,Known Malicious IP,1
+iPhone,iOS 14.6,High,HTTP,1030,system,File Access,142,823,/var/log/syslog,systemd,Pegasus Signature,1
+iPhone,iOS 15.0,High,HTTPS,1387,security,App Install,462,269,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,Android 11,High,FTP,5485,application,Login,833,945,/home/user/docs/report.docx,malware.exe,Known Malicious IP,0
+Android,iOS 15.0,Normal,SSH,5958,application,App Crash,106,559,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+Android,Android 11,Low,HTTP,4953,security,System Update,415,381,/var/log/syslog,systemd,None,1
+Android,iOS 15.0,Low,SSH,1810,system,File Access,325,681,/var/log/syslog,systemd,None,1
+Android,iOS 14.6,Normal,FTP,9709,system,File Access,328,921,/var/log/syslog,chrome.exe,Pegasus Signature,0
+iPhone,iOS 15.0,Low,FTP,3049,system,App Install,892,472,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+Android,iOS 15.0,Low,HTTP,3002,security,System Update,192,587,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+iPhone,iOS 15.0,High,HTTPS,3090,security,Login,394,926,/var/log/syslog,malware.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Normal,FTP,3433,application,Login,961,118,/var/log/syslog,malware.exe,None,0
+iPhone,Android 10,High,SSH,4719,system,File Access,865,458,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+Android,iOS 14.6,Low,HTTPS,9525,application,App Crash,81,289,/var/log/syslog,malware.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Low,SSH,378,application,File Access,526,965,/var/log/syslog,chrome.exe,Pegasus Signature,1
+iPhone,Android 10,Normal,SSH,6995,application,Login,32,303,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+Android,Android 10,Normal,FTP,3306,system,Login,320,634,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,0
+iPhone,Android 10,Normal,SSH,9615,security,App Crash,920,675,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,iOS 14.6,High,HTTPS,5526,security,Logout,478,508,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,1
+iPhone,Android 10,High,SSH,6292,security,App Install,61,629,/var/log/syslog,chrome.exe,None,1
+Android,iOS 15.0,Low,HTTPS,8215,system,File Access,880,943,/home/user/docs/report.docx,malware.exe,Pegasus Signature,0
+iPhone,Android 10,Low,FTP,5288,application,Login,153,574,/tmp/malware.bin,explorer.exe,None,1
+Android,iOS 15.0,High,SSH,6455,security,System Update,971,751,/tmp/malware.bin,chrome.exe,Pegasus Signature,0
+Android,Android 10,Normal,FTP,1279,system,File Access,648,570,/var/log/syslog,explorer.exe,None,1
+iPhone,Android 10,High,FTP,9911,security,System Update,458,977,/var/log/syslog,chrome.exe,Known Malicious IP,1
+iPhone,Android 11,Normal,FTP,6274,security,System Update,573,296,/var/log/syslog,chrome.exe,Pegasus Signature,1
+Android,Android 11,High,SSH,3190,system,App Crash,550,202,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,iOS 14.6,High,HTTPS,7766,application,System Update,101,527,/home/user/docs/report.docx,malware.exe,None,1
+Android,iOS 14.6,High,FTP,1562,security,App Crash,1,363,/home/user/docs/report.docx,explorer.exe,None,0
+Android,iOS 14.6,High,HTTP,5378,application,App Install,297,103,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+iPhone,iOS 15.0,Normal,SSH,3575,security,App Crash,452,436,/var/log/syslog,explorer.exe,Known Malicious IP,0
+iPhone,Android 10,High,SSH,2440,application,Login,929,965,/tmp/malware.bin,malware.exe,Known Malicious IP,0
+Android,Android 10,High,SSH,4347,system,App Install,803,593,/home/user/docs/report.docx,malware.exe,None,1
+iPhone,iOS 15.0,Low,FTP,1241,security,System Update,153,826,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+Android,Android 11,Low,HTTPS,4821,system,App Crash,621,388,/var/log/syslog,systemd,Pegasus Signature,1
+iPhone,iOS 14.6,High,FTP,4360,system,System Update,421,529,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+Android,Android 10,High,SSH,5761,system,Login,285,825,/var/log/syslog,malware.exe,Pegasus Signature,1
+iPhone,Android 11,Normal,SSH,3041,security,Logout,495,848,/var/log/syslog,explorer.exe,Pegasus Signature,1
+Android,Android 11,High,SSH,4288,security,System Update,671,201,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,iOS 14.6,Normal,FTP,2431,system,App Install,570,873,/var/log/syslog,malware.exe,Pegasus Signature,1
+Android,iOS 14.6,Normal,HTTPS,1120,application,App Crash,870,899,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+iPhone,iOS 14.6,High,HTTPS,3803,system,System Update,940,555,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+iPhone,Android 11,Normal,SSH,9977,application,Login,246,272,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+iPhone,Android 11,High,SSH,6163,system,App Crash,722,572,/var/log/syslog,explorer.exe,None,1
+iPhone,iOS 15.0,Low,HTTP,7456,security,System Update,211,229,/var/log/syslog,malware.exe,Known Malicious IP,1
+Android,iOS 14.6,High,HTTP,3557,system,App Crash,513,171,/tmp/malware.bin,explorer.exe,None,1
+iPhone,Android 11,Low,HTTP,7937,application,File Access,755,863,/var/log/syslog,chrome.exe,None,0
+Android,Android 11,High,HTTP,1761,security,App Install,529,213,/home/user/docs/report.docx,chrome.exe,None,1
+Android,iOS 14.6,High,SSH,9695,security,File Access,114,637,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+Android,Android 10,High,FTP,8159,security,System Update,73,836,/var/log/syslog,systemd,None,1
+iPhone,iOS 15.0,Low,HTTPS,3822,application,Logout,207,313,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+Android,iOS 14.6,Normal,HTTP,4491,application,App Install,383,855,/tmp/malware.bin,malware.exe,Pegasus Signature,0
+Android,Android 11,Low,HTTP,3411,application,App Crash,681,770,/tmp/malware.bin,chrome.exe,None,0
+Android,Android 10,High,FTP,7704,security,File Access,475,543,/var/log/syslog,explorer.exe,Pegasus Signature,1
+Android,Android 11,High,SSH,9021,application,App Crash,722,594,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+Android,Android 11,High,SSH,1163,security,App Install,421,935,/var/log/syslog,explorer.exe,Known Malicious IP,1
+iPhone,Android 11,Low,FTP,4310,security,App Crash,154,934,/var/log/syslog,malware.exe,Pegasus Signature,1
+iPhone,iOS 15.0,High,HTTP,9567,application,File Access,738,410,/tmp/malware.bin,explorer.exe,None,1
+Android,iOS 15.0,High,HTTP,3485,security,Logout,787,440,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+Android,Android 10,Normal,SSH,530,system,System Update,595,667,/var/log/syslog,explorer.exe,Known Malicious IP,0
+Android,iOS 15.0,Low,FTP,9693,application,Logout,85,511,/var/log/syslog,explorer.exe,Known Malicious IP,1
+Android,Android 11,Low,SSH,1717,system,Logout,176,800,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,Android 11,Low,HTTP,2010,system,Logout,902,670,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+Android,iOS 15.0,Low,FTP,9447,security,App Crash,688,713,/var/log/syslog,chrome.exe,Known Malicious IP,1
+iPhone,iOS 14.6,Low,SSH,574,security,App Install,708,742,/tmp/malware.bin,systemd,None,1
+Android,Android 10,Low,SSH,1648,security,Logout,280,375,/var/log/syslog,malware.exe,Known Malicious IP,1
+Android,iOS 14.6,Low,FTP,1148,security,App Crash,13,245,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+Android,iOS 15.0,Low,HTTPS,3134,system,App Crash,544,968,/var/log/syslog,malware.exe,Pegasus Signature,1
+iPhone,Android 11,High,FTP,3930,security,Logout,691,518,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+iPhone,Android 10,High,HTTPS,178,system,Logout,158,648,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,0
+Android,Android 10,Normal,HTTPS,6032,application,App Install,664,723,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+Android,Android 11,Low,FTP,9320,system,Login,676,269,/var/log/syslog,systemd,Pegasus Signature,0
+iPhone,iOS 15.0,Low,HTTPS,3205,application,Logout,84,458,/var/log/syslog,malware.exe,Known Malicious IP,1
+iPhone,Android 10,High,HTTPS,3212,security,System Update,471,599,/home/user/docs/report.docx,systemd,Pegasus Signature,0
+Android,iOS 14.6,High,HTTPS,9792,application,Logout,618,835,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+Android,Android 10,High,FTP,6534,application,App Crash,660,883,/home/user/docs/report.docx,chrome.exe,None,1
+Android,iOS 14.6,Low,SSH,8020,system,File Access,909,863,/var/log/syslog,systemd,Known Malicious IP,0
+Android,iOS 15.0,Normal,HTTPS,2687,security,App Install,954,456,/var/log/syslog,systemd,None,1
+Android,Android 10,Low,FTP,9696,security,App Crash,68,528,/var/log/syslog,malware.exe,Pegasus Signature,1
+Android,iOS 15.0,Low,HTTP,4640,system,App Install,553,706,/tmp/malware.bin,chrome.exe,None,1
+iPhone,iOS 15.0,Normal,HTTPS,1536,security,Logout,538,284,/tmp/malware.bin,chrome.exe,Known Malicious IP,0
+Android,iOS 15.0,Low,HTTP,8238,security,Login,207,496,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+iPhone,Android 10,High,SSH,3112,application,Login,252,442,/home/user/docs/report.docx,chrome.exe,None,1
+iPhone,Android 10,High,HTTPS,3634,security,App Crash,305,190,/var/log/syslog,systemd,Pegasus Signature,1
+Android,iOS 15.0,High,HTTP,1797,security,File Access,498,294,/tmp/malware.bin,systemd,None,1
+iPhone,Android 10,Normal,HTTPS,4021,application,Login,270,740,/tmp/malware.bin,explorer.exe,Pegasus Signature,0
+Android,iOS 15.0,Normal,HTTPS,902,security,File Access,807,536,/tmp/malware.bin,chrome.exe,None,1
+Android,iOS 14.6,Normal,HTTP,2098,application,App Crash,100,133,/tmp/malware.bin,chrome.exe,None,0
+Android,Android 11,High,HTTPS,6479,security,App Crash,520,480,/var/log/syslog,malware.exe,Pegasus Signature,1
+Android,iOS 14.6,Normal,FTP,5976,system,App Crash,976,370,/var/log/syslog,malware.exe,Known Malicious IP,1
+Android,Android 10,High,HTTPS,8629,system,System Update,287,918,/var/log/syslog,malware.exe,None,1
+iPhone,iOS 15.0,Normal,HTTPS,8947,system,App Install,261,867,/home/user/docs/report.docx,explorer.exe,None,0
+Android,iOS 14.6,Normal,FTP,6177,application,File Access,164,668,/var/log/syslog,chrome.exe,Pegasus Signature,0
+Android,iOS 14.6,Low,FTP,4738,security,Logout,331,272,/home/user/docs/report.docx,malware.exe,None,1
+Android,iOS 15.0,Normal,SSH,7778,system,App Install,303,195,/tmp/malware.bin,chrome.exe,None,1
+Android,Android 11,Low,FTP,707,system,App Crash,968,167,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+Android,iOS 14.6,Low,HTTP,4927,security,File Access,263,606,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+Android,Android 11,Low,FTP,6147,security,App Crash,740,847,/tmp/malware.bin,systemd,Pegasus Signature,0
+iPhone,Android 11,High,FTP,6696,application,Logout,815,622,/home/user/docs/report.docx,systemd,None,0
+iPhone,Android 11,High,FTP,6635,application,System Update,706,106,/var/log/syslog,systemd,Known Malicious IP,1
+iPhone,iOS 14.6,Low,HTTPS,3058,application,Login,594,442,/var/log/syslog,systemd,None,1
+Android,iOS 15.0,High,HTTP,4555,system,Login,988,577,/var/log/syslog,systemd,None,1
+Android,Android 11,Low,FTP,5083,security,App Crash,462,226,/var/log/syslog,chrome.exe,Pegasus Signature,1
+iPhone,Android 11,Normal,HTTPS,4308,system,File Access,767,158,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+Android,Android 10,High,HTTP,2546,security,App Crash,198,405,/tmp/malware.bin,systemd,Pegasus Signature,0
+Android,Android 11,Normal,HTTP,4151,security,System Update,376,623,/var/log/syslog,systemd,None,1
+iPhone,iOS 14.6,High,HTTP,1597,application,Login,273,638,/var/log/syslog,systemd,Pegasus Signature,1
+Android,Android 11,High,SSH,2463,system,App Install,246,681,/var/log/syslog,malware.exe,Known Malicious IP,0
+iPhone,iOS 14.6,High,FTP,804,security,Login,991,855,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+iPhone,Android 11,High,HTTPS,5426,system,Login,781,773,/var/log/syslog,explorer.exe,Pegasus Signature,1
+iPhone,iOS 15.0,High,SSH,2355,system,App Install,23,999,/home/user/docs/report.docx,systemd,None,1
+Android,Android 10,High,SSH,4835,security,Login,602,693,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,0
+Android,Android 11,Normal,SSH,597,system,Logout,733,543,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,iOS 15.0,High,HTTP,9949,security,App Crash,9,744,/var/log/syslog,malware.exe,None,1
+Android,Android 11,Normal,SSH,4744,security,App Install,778,747,/var/log/syslog,chrome.exe,Pegasus Signature,0
+iPhone,Android 11,Low,HTTP,6985,application,File Access,223,604,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,Android 10,Low,HTTP,6607,application,File Access,660,712,/var/log/syslog,malware.exe,Known Malicious IP,1
+iPhone,iOS 14.6,Normal,HTTP,2863,application,System Update,881,486,/var/log/syslog,systemd,Known Malicious IP,1
+Android,Android 11,Normal,FTP,6220,system,Login,153,989,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+iPhone,Android 11,Low,SSH,8445,security,Login,739,957,/var/log/syslog,chrome.exe,None,0
+Android,iOS 14.6,Low,HTTP,9589,system,App Install,321,509,/var/log/syslog,explorer.exe,None,1
+iPhone,Android 11,Low,HTTPS,1640,system,System Update,644,643,/home/user/docs/report.docx,systemd,Known Malicious IP,0
+Android,iOS 15.0,Normal,HTTP,8534,security,System Update,121,971,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,Android 10,Low,SSH,2179,security,App Crash,706,805,/var/log/syslog,chrome.exe,Known Malicious IP,1
+iPhone,Android 11,Normal,HTTPS,7245,application,File Access,880,674,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+Android,iOS 15.0,High,HTTP,6394,application,App Install,976,310,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,iOS 15.0,Normal,SSH,7947,security,App Crash,511,669,/var/log/syslog,chrome.exe,None,0
+iPhone,iOS 15.0,Normal,HTTP,7733,system,App Install,245,498,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,Android 10,High,SSH,3925,system,Login,670,385,/var/log/syslog,chrome.exe,Known Malicious IP,1
+iPhone,Android 11,High,HTTP,9053,application,Logout,705,907,/tmp/malware.bin,systemd,None,0
+iPhone,Android 11,Low,SSH,7016,security,Logout,467,945,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+Android,iOS 15.0,Low,HTTP,8925,security,Login,588,421,/home/user/docs/report.docx,malware.exe,None,1
+Android,iOS 14.6,Normal,HTTPS,1287,application,App Crash,794,821,/var/log/syslog,systemd,Known Malicious IP,0
+Android,iOS 15.0,Low,SSH,5945,system,Logout,343,799,/tmp/malware.bin,malware.exe,None,1
+iPhone,Android 11,Low,HTTPS,7266,system,Login,966,247,/home/user/docs/report.docx,systemd,None,1
+Android,Android 10,High,HTTP,5451,application,App Install,130,453,/var/log/syslog,explorer.exe,Known Malicious IP,0
+iPhone,iOS 15.0,Normal,FTP,4203,security,System Update,292,440,/var/log/syslog,systemd,Known Malicious IP,1
+iPhone,iOS 14.6,High,FTP,6161,security,Logout,715,468,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,0
+Android,Android 10,High,HTTP,6000,application,File Access,548,437,/var/log/syslog,explorer.exe,Pegasus Signature,1
+iPhone,Android 10,Low,HTTPS,5087,security,App Crash,885,417,/var/log/syslog,chrome.exe,Known Malicious IP,1
+Android,iOS 14.6,Low,HTTPS,5787,system,App Install,454,855,/var/log/syslog,chrome.exe,None,1
+Android,iOS 15.0,Low,HTTPS,1813,application,App Crash,134,723,/var/log/syslog,explorer.exe,None,1
+Android,Android 11,Low,HTTPS,1152,security,Login,525,264,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+Android,iOS 15.0,Low,HTTPS,5682,security,File Access,72,146,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+Android,iOS 14.6,Low,HTTP,9146,system,App Crash,408,230,/home/user/docs/report.docx,malware.exe,None,0
+iPhone,Android 11,High,FTP,6713,system,Login,378,552,/var/log/syslog,chrome.exe,Known Malicious IP,1
+Android,iOS 14.6,Normal,FTP,5972,system,Logout,765,391,/tmp/malware.bin,malware.exe,None,1
+Android,Android 11,Normal,HTTP,3159,system,App Install,362,296,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,0
+iPhone,iOS 14.6,Low,FTP,1070,application,Login,968,378,/home/user/docs/report.docx,malware.exe,None,1
+Android,Android 11,Normal,FTP,1907,application,System Update,317,663,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+iPhone,iOS 15.0,Low,HTTPS,4957,security,App Crash,718,154,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+iPhone,iOS 14.6,Normal,FTP,9540,system,System Update,177,909,/var/log/syslog,chrome.exe,None,1
+Android,iOS 14.6,Low,HTTP,4421,security,File Access,241,871,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Normal,HTTP,3699,application,Login,605,411,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,Android 11,Normal,SSH,2646,application,App Install,688,679,/tmp/malware.bin,explorer.exe,None,0
+iPhone,Android 10,Normal,FTP,9670,system,Logout,786,806,/var/log/syslog,systemd,Pegasus Signature,1
+Android,Android 10,Normal,HTTPS,3451,application,Login,9,418,/var/log/syslog,chrome.exe,Pegasus Signature,1
+iPhone,iOS 15.0,High,SSH,1127,system,Logout,253,468,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+iPhone,iOS 14.6,Normal,HTTPS,3202,security,Login,239,207,/home/user/docs/report.docx,systemd,Known Malicious IP,0
+iPhone,iOS 15.0,High,HTTP,317,application,File Access,766,349,/var/log/syslog,systemd,Known Malicious IP,1
+iPhone,iOS 15.0,Low,FTP,4745,application,File Access,418,990,/var/log/syslog,malware.exe,Known Malicious IP,1
+iPhone,Android 10,Normal,FTP,6269,system,App Crash,275,894,/tmp/malware.bin,systemd,Known Malicious IP,0
+Android,Android 11,Low,FTP,4185,security,App Crash,860,881,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Low,SSH,4725,system,System Update,78,375,/var/log/syslog,malware.exe,None,1
+Android,Android 10,Normal,HTTPS,9017,security,Login,529,816,/var/log/syslog,chrome.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Low,HTTP,1804,security,System Update,479,983,/tmp/malware.bin,explorer.exe,None,0
+iPhone,Android 11,Normal,HTTPS,4555,system,App Crash,280,533,/tmp/malware.bin,explorer.exe,None,1
+iPhone,iOS 15.0,High,SSH,9562,system,Logout,460,665,/tmp/malware.bin,explorer.exe,None,1
+iPhone,Android 10,Normal,HTTPS,6452,system,App Install,724,727,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Low,FTP,1698,system,Logout,573,948,/home/user/docs/report.docx,malware.exe,Pegasus Signature,0
+iPhone,Android 10,High,HTTPS,5127,security,System Update,213,692,/tmp/malware.bin,chrome.exe,None,1
+Android,iOS 15.0,High,FTP,9295,system,Logout,341,547,/var/log/syslog,chrome.exe,Pegasus Signature,0
+Android,Android 10,Normal,FTP,8690,system,Logout,340,109,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Normal,SSH,8806,system,App Crash,84,212,/tmp/malware.bin,systemd,Known Malicious IP,1
+iPhone,iOS 14.6,Low,SSH,6091,system,App Crash,303,918,/tmp/malware.bin,malware.exe,None,1
+Android,Android 10,Low,SSH,5364,system,System Update,66,859,/var/log/syslog,chrome.exe,Pegasus Signature,0
+Android,iOS 15.0,High,FTP,3529,system,File Access,884,285,/home/user/docs/report.docx,chrome.exe,None,0
+iPhone,iOS 14.6,High,HTTP,3528,security,Login,4,464,/tmp/malware.bin,explorer.exe,Known Malicious IP,0
+Android,Android 11,Low,SSH,6072,system,System Update,695,735,/var/log/syslog,systemd,Known Malicious IP,1
+Android,Android 10,Normal,SSH,6118,system,App Crash,212,662,/var/log/syslog,malware.exe,Pegasus Signature,1
+Android,iOS 14.6,Low,HTTP,9236,security,App Install,306,969,/var/log/syslog,chrome.exe,Pegasus Signature,1
+Android,iOS 14.6,High,HTTPS,6086,system,App Crash,745,564,/tmp/malware.bin,explorer.exe,None,1
+Android,Android 10,High,HTTP,9288,application,System Update,171,723,/tmp/malware.bin,chrome.exe,None,1
+Android,iOS 14.6,Low,SSH,5856,application,Logout,839,134,/tmp/malware.bin,systemd,Known Malicious IP,0
+Android,iOS 14.6,High,SSH,9749,system,System Update,735,969,/home/user/docs/report.docx,explorer.exe,None,1
+Android,iOS 15.0,Low,HTTPS,191,system,App Crash,998,529,/tmp/malware.bin,chrome.exe,Known Malicious IP,0
+iPhone,iOS 14.6,Low,HTTP,135,system,Logout,414,883,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+Android,iOS 15.0,Low,HTTPS,5229,system,App Crash,82,576,/var/log/syslog,explorer.exe,Pegasus Signature,1
+Android,Android 10,Normal,SSH,9753,application,Login,916,835,/tmp/malware.bin,malware.exe,None,0
+iPhone,iOS 15.0,Normal,HTTP,9660,application,System Update,59,976,/var/log/syslog,explorer.exe,Known Malicious IP,1
+iPhone,Android 11,High,HTTPS,6628,application,Login,340,785,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+Android,iOS 15.0,Normal,SSH,4319,application,System Update,675,525,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+Android,iOS 14.6,High,SSH,7079,application,App Crash,832,472,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+Android,iOS 15.0,Normal,SSH,7215,system,System Update,330,213,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+Android,iOS 15.0,Low,HTTP,5533,security,File Access,27,338,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,0
+iPhone,iOS 15.0,Normal,SSH,6897,system,File Access,308,670,/home/user/docs/report.docx,malware.exe,Known Malicious IP,0
+iPhone,iOS 14.6,Low,HTTPS,9528,system,Logout,737,232,/var/log/syslog,explorer.exe,Known Malicious IP,1
+Android,iOS 14.6,High,HTTPS,2401,security,File Access,476,908,/var/log/syslog,explorer.exe,Known Malicious IP,1
+Android,iOS 15.0,High,FTP,6015,system,App Crash,555,738,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+Android,Android 10,Low,HTTPS,3725,security,App Install,708,728,/var/log/syslog,explorer.exe,Known Malicious IP,0
+Android,iOS 15.0,Low,HTTPS,624,system,System Update,47,677,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+iPhone,Android 10,Low,HTTPS,8958,security,File Access,685,648,/home/user/docs/report.docx,malware.exe,None,1
+iPhone,Android 10,Low,HTTPS,3603,application,System Update,832,803,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,1
+Android,Android 10,Low,HTTPS,3364,application,Logout,213,810,/var/log/syslog,explorer.exe,None,1
+iPhone,Android 11,High,FTP,9750,application,File Access,258,103,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Low,HTTP,6354,application,System Update,243,224,/home/user/docs/report.docx,explorer.exe,None,1
+Android,iOS 14.6,Low,FTP,8198,system,Logout,207,927,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+Android,Android 11,Low,SSH,5973,security,App Install,232,459,/home/user/docs/report.docx,explorer.exe,None,1
+iPhone,Android 11,High,HTTP,4448,system,File Access,368,654,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+iPhone,Android 11,High,SSH,7397,application,Login,912,732,/tmp/malware.bin,chrome.exe,None,1
+iPhone,iOS 14.6,High,SSH,2228,system,System Update,303,178,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+iPhone,iOS 15.0,High,SSH,9945,system,File Access,682,320,/tmp/malware.bin,malware.exe,None,1
+iPhone,Android 11,High,HTTPS,6325,security,App Install,457,610,/var/log/syslog,malware.exe,Pegasus Signature,0
+Android,iOS 15.0,Low,HTTPS,3604,security,File Access,171,213,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+Android,iOS 15.0,Low,FTP,8870,application,Logout,946,129,/tmp/malware.bin,systemd,Pegasus Signature,0
+Android,iOS 14.6,Low,FTP,7367,security,File Access,559,263,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+Android,Android 10,High,HTTP,8448,system,App Install,999,274,/home/user/docs/report.docx,malware.exe,None,1
+Android,Android 11,Normal,HTTP,9869,application,File Access,42,717,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,iOS 15.0,High,SSH,9161,security,Login,529,563,/var/log/syslog,malware.exe,None,1
+iPhone,iOS 14.6,Low,SSH,1135,security,Logout,783,226,/tmp/malware.bin,systemd,Known Malicious IP,1
+iPhone,iOS 15.0,Normal,HTTP,1506,system,System Update,970,369,/tmp/malware.bin,systemd,None,1
+iPhone,iOS 15.0,High,HTTP,635,application,Login,998,155,/var/log/syslog,systemd,Known Malicious IP,1
+Android,iOS 14.6,Low,SSH,4907,security,Login,653,743,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,0
+iPhone,iOS 14.6,High,HTTP,6013,application,Login,732,725,/tmp/malware.bin,systemd,Known Malicious IP,0
+iPhone,iOS 14.6,High,HTTP,2075,system,App Install,454,704,/var/log/syslog,systemd,Pegasus Signature,1
+iPhone,Android 11,High,SSH,5106,application,App Install,421,936,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,0
+iPhone,Android 11,Low,HTTPS,3125,system,System Update,973,135,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,iOS 15.0,High,HTTP,4881,security,Logout,288,604,/home/user/docs/report.docx,chrome.exe,None,0
+iPhone,Android 10,Low,SSH,676,security,System Update,358,811,/var/log/syslog,explorer.exe,Pegasus Signature,1
+iPhone,Android 11,High,SSH,6360,security,File Access,54,705,/var/log/syslog,systemd,Pegasus Signature,0
+Android,Android 11,High,HTTP,1307,application,App Install,156,412,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+iPhone,iOS 15.0,Low,FTP,2393,security,Login,119,609,/home/user/docs/report.docx,malware.exe,None,0
+iPhone,Android 10,High,SSH,778,application,System Update,318,518,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+iPhone,Android 11,High,SSH,8682,security,System Update,508,192,/var/log/syslog,malware.exe,Pegasus Signature,1
+iPhone,Android 10,Low,SSH,9674,application,Logout,644,389,/home/user/docs/report.docx,explorer.exe,None,1
+Android,Android 11,Normal,FTP,5952,system,File Access,724,937,/tmp/malware.bin,systemd,Known Malicious IP,1
+iPhone,iOS 15.0,Normal,HTTP,2389,security,Login,353,480,/home/user/docs/report.docx,explorer.exe,None,1
+iPhone,iOS 14.6,Normal,HTTP,6843,application,App Crash,979,726,/home/user/docs/report.docx,malware.exe,Known Malicious IP,0
+Android,iOS 15.0,Low,SSH,6842,security,System Update,440,895,/tmp/malware.bin,malware.exe,None,1
+iPhone,iOS 14.6,Low,HTTPS,7437,application,System Update,772,307,/tmp/malware.bin,malware.exe,None,1
+iPhone,Android 11,Low,HTTPS,5811,security,System Update,608,654,/home/user/docs/report.docx,systemd,None,1
+Android,iOS 14.6,Low,HTTP,6289,system,App Install,770,626,/var/log/syslog,chrome.exe,Known Malicious IP,1
+iPhone,Android 10,High,HTTPS,5584,application,App Install,918,176,/var/log/syslog,explorer.exe,Pegasus Signature,1
+iPhone,Android 10,Low,FTP,4149,system,System Update,657,660,/tmp/malware.bin,malware.exe,None,1
+Android,Android 10,Low,FTP,5838,application,File Access,610,445,/var/log/syslog,chrome.exe,None,0
+iPhone,Android 10,Low,FTP,9529,security,App Install,47,732,/var/log/syslog,chrome.exe,None,1
+Android,iOS 15.0,High,HTTP,4834,system,Login,500,958,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+Android,iOS 14.6,Low,FTP,3815,security,Logout,318,646,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+Android,iOS 14.6,Low,SSH,6006,security,Login,470,382,/home/user/docs/report.docx,chrome.exe,None,0
+Android,iOS 15.0,High,HTTPS,1017,security,Logout,248,974,/var/log/syslog,malware.exe,Known Malicious IP,1
+Android,Android 11,Normal,HTTP,2597,security,Logout,838,104,/tmp/malware.bin,malware.exe,Known Malicious IP,0
+iPhone,Android 10,High,HTTPS,2760,security,System Update,926,220,/var/log/syslog,chrome.exe,Pegasus Signature,1
+iPhone,iOS 15.0,High,SSH,6886,security,Logout,385,105,/var/log/syslog,chrome.exe,Known Malicious IP,0
+iPhone,Android 11,Normal,HTTPS,831,application,System Update,38,205,/var/log/syslog,systemd,Known Malicious IP,1
+iPhone,iOS 14.6,Low,HTTPS,7840,system,System Update,68,326,/tmp/malware.bin,chrome.exe,None,1
+iPhone,iOS 15.0,Low,HTTPS,9511,security,System Update,952,896,/tmp/malware.bin,chrome.exe,None,0
+Android,Android 10,Normal,HTTP,182,security,Logout,963,262,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+Android,iOS 14.6,Low,HTTP,5919,system,App Install,949,837,/home/user/docs/report.docx,malware.exe,Pegasus Signature,0
+iPhone,Android 11,Low,HTTP,8634,system,System Update,344,104,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+iPhone,iOS 15.0,Low,SSH,8565,system,Logout,51,821,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+Android,iOS 14.6,Normal,SSH,6466,application,Login,233,877,/var/log/syslog,malware.exe,Pegasus Signature,0
+iPhone,iOS 14.6,Low,HTTP,9249,security,Login,142,732,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+Android,iOS 14.6,Low,FTP,6695,application,System Update,42,903,/var/log/syslog,systemd,Pegasus Signature,1
+Android,Android 11,High,HTTPS,2917,security,Logout,968,629,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+iPhone,Android 10,Low,HTTP,100,application,App Crash,357,772,/tmp/malware.bin,systemd,Pegasus Signature,0
+iPhone,iOS 14.6,High,SSH,2640,system,App Install,646,610,/var/log/syslog,explorer.exe,Pegasus Signature,1
+Android,Android 10,High,SSH,7080,system,File Access,703,229,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,iOS 14.6,High,HTTPS,9971,system,System Update,668,782,/var/log/syslog,chrome.exe,None,0
+Android,Android 10,Low,HTTP,8920,security,App Crash,881,987,/var/log/syslog,chrome.exe,None,1
+iPhone,iOS 14.6,High,HTTPS,8891,system,App Crash,656,153,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+Android,iOS 14.6,Normal,SSH,6524,security,App Install,859,530,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Low,SSH,6250,system,System Update,911,471,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+iPhone,Android 11,Low,HTTP,9046,application,App Crash,295,744,/var/log/syslog,systemd,Pegasus Signature,1
+Android,Android 11,Normal,HTTP,9653,system,Login,205,799,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+Android,Android 11,Low,FTP,5292,system,Login,525,447,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,0
+iPhone,iOS 14.6,Low,SSH,9567,security,Login,780,877,/home/user/docs/report.docx,systemd,Pegasus Signature,0
+iPhone,Android 11,Low,SSH,4822,system,App Crash,477,373,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+Android,iOS 15.0,Low,SSH,9568,security,App Install,987,367,/home/user/docs/report.docx,chrome.exe,None,1
+Android,iOS 14.6,High,FTP,8418,system,System Update,370,228,/home/user/docs/report.docx,malware.exe,None,1
+Android,Android 10,Normal,HTTPS,439,security,App Install,610,209,/tmp/malware.bin,systemd,Known Malicious IP,0
+iPhone,iOS 14.6,Low,SSH,8423,security,System Update,286,325,/home/user/docs/report.docx,explorer.exe,None,0
+iPhone,Android 11,Low,HTTP,3191,security,File Access,541,749,/var/log/syslog,systemd,None,1
+iPhone,Android 11,High,HTTP,7242,system,System Update,680,153,/tmp/malware.bin,chrome.exe,None,1
+Android,Android 11,Low,HTTP,7555,system,System Update,362,230,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Normal,HTTP,705,security,File Access,40,791,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+iPhone,iOS 15.0,Low,SSH,3818,system,System Update,650,220,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+iPhone,Android 10,Normal,HTTPS,9252,system,Login,504,424,/tmp/malware.bin,systemd,Pegasus Signature,1
+Android,iOS 14.6,High,FTP,7423,system,File Access,547,372,/home/user/docs/report.docx,systemd,None,1
+iPhone,iOS 15.0,Low,HTTP,7558,system,App Crash,62,188,/var/log/syslog,explorer.exe,Known Malicious IP,1
+iPhone,Android 10,Normal,HTTPS,9706,system,System Update,784,602,/tmp/malware.bin,chrome.exe,Pegasus Signature,0
+iPhone,iOS 14.6,Low,HTTP,615,system,App Install,333,162,/tmp/malware.bin,malware.exe,None,1
+Android,iOS 14.6,Normal,HTTPS,3135,system,App Crash,745,899,/home/user/docs/report.docx,malware.exe,Pegasus Signature,0
+iPhone,iOS 15.0,Low,FTP,3091,security,Logout,243,635,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Normal,HTTP,9687,system,App Crash,2,131,/home/user/docs/report.docx,malware.exe,None,1
+Android,Android 10,High,SSH,2179,system,Logout,418,574,/tmp/malware.bin,systemd,None,0
+iPhone,Android 10,High,FTP,9257,application,System Update,589,451,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+Android,iOS 15.0,Low,FTP,7239,application,System Update,400,538,/var/log/syslog,systemd,Pegasus Signature,1
+Android,iOS 15.0,Normal,HTTPS,3874,security,Login,821,751,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+Android,Android 11,Low,FTP,2758,system,File Access,215,571,/tmp/malware.bin,chrome.exe,None,1
+Android,iOS 14.6,Normal,SSH,9765,system,System Update,533,625,/tmp/malware.bin,systemd,None,1
+iPhone,Android 11,High,HTTPS,4521,security,App Install,243,497,/tmp/malware.bin,malware.exe,None,1
+iPhone,iOS 14.6,Normal,HTTPS,7813,application,File Access,541,177,/var/log/syslog,malware.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Low,HTTPS,9971,system,Login,397,303,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,Android 10,Low,FTP,9510,security,Login,508,708,/tmp/malware.bin,systemd,Known Malicious IP,1
+iPhone,Android 11,High,FTP,6256,application,File Access,557,632,/home/user/docs/report.docx,systemd,None,0
+Android,Android 11,High,FTP,5945,application,App Install,120,952,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+Android,iOS 15.0,Normal,SSH,8636,security,App Install,45,687,/var/log/syslog,explorer.exe,None,1
+iPhone,Android 10,Normal,SSH,2167,application,App Install,885,551,/home/user/docs/report.docx,systemd,Pegasus Signature,0
+Android,Android 10,Low,HTTPS,2947,application,App Install,447,249,/var/log/syslog,explorer.exe,None,0
+Android,iOS 14.6,Normal,FTP,2313,application,Login,727,375,/var/log/syslog,systemd,Pegasus Signature,1
+Android,Android 10,Normal,SSH,9990,application,App Crash,305,107,/tmp/malware.bin,chrome.exe,None,1
+Android,Android 11,Low,SSH,9369,security,System Update,149,197,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,1
+iPhone,iOS 15.0,High,SSH,4246,system,App Crash,169,264,/tmp/malware.bin,systemd,Pegasus Signature,1
+iPhone,iOS 14.6,High,SSH,6821,system,Logout,874,739,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+iPhone,iOS 14.6,High,FTP,5099,security,Login,232,502,/tmp/malware.bin,malware.exe,None,1
+iPhone,Android 11,Normal,FTP,7851,application,System Update,919,772,/home/user/docs/report.docx,chrome.exe,None,1
+Android,Android 11,Low,SSH,1558,security,Logout,195,817,/home/user/docs/report.docx,chrome.exe,Pegasus Signature,1
+Android,iOS 14.6,High,HTTPS,9713,security,App Crash,846,567,/home/user/docs/report.docx,chrome.exe,None,1
+iPhone,iOS 14.6,Normal,SSH,5692,application,App Crash,272,852,/home/user/docs/report.docx,chrome.exe,None,1
+iPhone,iOS 14.6,Normal,FTP,9293,system,App Crash,208,153,/var/log/syslog,explorer.exe,None,1
+iPhone,iOS 15.0,Low,SSH,5868,security,File Access,721,239,/var/log/syslog,malware.exe,Pegasus Signature,1
+Android,iOS 15.0,Low,HTTPS,9426,system,File Access,627,703,/tmp/malware.bin,explorer.exe,Pegasus Signature,0
+Android,iOS 14.6,Low,SSH,1891,application,App Install,905,110,/var/log/syslog,explorer.exe,Known Malicious IP,1
+iPhone,iOS 14.6,High,HTTP,1350,security,Logout,924,213,/tmp/malware.bin,chrome.exe,None,1
+Android,iOS 14.6,High,HTTP,2530,security,Logout,807,740,/var/log/syslog,malware.exe,Known Malicious IP,1
+Android,iOS 15.0,Low,FTP,2786,security,App Install,928,315,/var/log/syslog,systemd,None,1
+iPhone,iOS 15.0,Low,SSH,3205,system,System Update,142,167,/var/log/syslog,explorer.exe,Pegasus Signature,0
+iPhone,iOS 15.0,Normal,SSH,5717,security,File Access,909,945,/tmp/malware.bin,explorer.exe,None,0
+Android,iOS 15.0,Normal,HTTPS,2541,application,Login,549,375,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+iPhone,Android 10,Low,FTP,9573,system,Login,566,227,/tmp/malware.bin,chrome.exe,Pegasus Signature,0
+iPhone,Android 10,Normal,HTTP,3399,system,App Crash,628,582,/var/log/syslog,explorer.exe,Pegasus Signature,0
+Android,Android 10,Low,HTTPS,9772,application,File Access,476,355,/tmp/malware.bin,systemd,Pegasus Signature,0
+iPhone,iOS 15.0,High,HTTPS,6908,application,File Access,589,359,/var/log/syslog,chrome.exe,None,0
+iPhone,Android 10,High,HTTPS,7947,security,App Install,174,823,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,iOS 14.6,Low,HTTPS,8869,security,App Install,483,961,/home/user/docs/report.docx,systemd,None,1
+iPhone,Android 11,High,HTTP,6848,application,File Access,19,348,/tmp/malware.bin,chrome.exe,Pegasus Signature,1
+Android,Android 10,Low,FTP,2799,system,Login,998,972,/var/log/syslog,chrome.exe,Pegasus Signature,1
+Android,Android 11,Low,SSH,3556,system,App Crash,944,199,/home/user/docs/report.docx,malware.exe,None,1
+Android,Android 11,Low,FTP,4392,application,App Crash,775,436,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+iPhone,Android 10,High,HTTPS,3018,system,App Install,337,322,/var/log/syslog,explorer.exe,Known Malicious IP,0
+iPhone,Android 11,Low,SSH,2518,system,System Update,653,125,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,Android 11,Low,HTTP,5981,application,Login,941,688,/var/log/syslog,malware.exe,Pegasus Signature,1
+iPhone,Android 11,Normal,SSH,5023,application,System Update,338,383,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+Android,iOS 14.6,Normal,HTTP,4499,security,Logout,478,588,/var/log/syslog,malware.exe,Known Malicious IP,0
+iPhone,iOS 15.0,Low,FTP,6046,security,App Install,599,286,/tmp/malware.bin,systemd,Known Malicious IP,1
+Android,Android 10,High,HTTP,6371,security,Logout,791,590,/var/log/syslog,chrome.exe,Known Malicious IP,1
+iPhone,Android 11,Normal,SSH,2265,application,App Install,23,925,/var/log/syslog,explorer.exe,Pegasus Signature,0
+iPhone,iOS 14.6,Low,HTTP,4502,system,Logout,7,735,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+iPhone,Android 10,High,HTTPS,9880,security,App Install,806,376,/var/log/syslog,systemd,Pegasus Signature,1
+Android,iOS 14.6,High,FTP,313,security,File Access,992,406,/home/user/docs/report.docx,explorer.exe,None,0
+iPhone,Android 11,Normal,HTTPS,1599,system,Logout,590,395,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+Android,Android 10,Normal,FTP,155,system,App Install,935,365,/var/log/syslog,chrome.exe,None,1
+iPhone,Android 10,High,HTTP,3489,system,Logout,512,336,/tmp/malware.bin,explorer.exe,None,0
+Android,Android 10,Normal,FTP,411,system,Logout,215,945,/var/log/syslog,systemd,Pegasus Signature,0
+Android,Android 10,Low,HTTP,2782,application,File Access,417,859,/tmp/malware.bin,explorer.exe,None,0
+Android,iOS 14.6,High,SSH,7670,system,File Access,106,803,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+iPhone,Android 10,High,HTTPS,5963,security,Logout,818,590,/var/log/syslog,systemd,Pegasus Signature,1
+Android,iOS 14.6,Normal,SSH,7177,application,App Install,126,422,/tmp/malware.bin,systemd,Known Malicious IP,1
+iPhone,iOS 15.0,High,FTP,8824,security,App Crash,192,770,/home/user/docs/report.docx,malware.exe,Known Malicious IP,0
+iPhone,iOS 15.0,Normal,SSH,9887,security,System Update,443,554,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+iPhone,iOS 15.0,Low,HTTPS,2083,application,File Access,861,447,/home/user/docs/report.docx,systemd,None,1
+Android,Android 10,Low,HTTPS,7262,application,App Crash,947,813,/var/log/syslog,systemd,Known Malicious IP,1
+Android,Android 11,Normal,HTTP,9778,application,Login,929,359,/var/log/syslog,chrome.exe,Pegasus Signature,1
+Android,iOS 15.0,Normal,HTTP,2940,system,Login,796,641,/var/log/syslog,explorer.exe,Known Malicious IP,1
+Android,Android 11,Low,SSH,3728,application,App Crash,426,727,/home/user/docs/report.docx,malware.exe,Pegasus Signature,0
+Android,iOS 15.0,Low,SSH,2459,security,App Install,300,946,/var/log/syslog,systemd,Pegasus Signature,1
+Android,Android 11,Low,HTTPS,2484,application,Logout,109,333,/var/log/syslog,chrome.exe,Pegasus Signature,1
+Android,Android 11,Low,FTP,6505,application,Login,187,432,/var/log/syslog,explorer.exe,Pegasus Signature,1
+iPhone,iOS 14.6,Low,HTTP,2930,security,Login,311,981,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,0
+iPhone,iOS 15.0,Normal,HTTP,8319,application,App Crash,496,932,/var/log/syslog,malware.exe,None,1
+iPhone,iOS 15.0,High,HTTPS,1631,security,File Access,147,160,/var/log/syslog,explorer.exe,None,1
+Android,Android 10,Normal,FTP,9908,application,App Install,588,494,/home/user/docs/report.docx,explorer.exe,None,0
+Android,Android 10,Normal,HTTPS,7207,application,File Access,572,986,/tmp/malware.bin,explorer.exe,Pegasus Signature,1
+iPhone,Android 11,Low,HTTPS,2092,security,App Crash,91,662,/var/log/syslog,chrome.exe,Pegasus Signature,1
+iPhone,iOS 15.0,High,HTTP,7618,application,Login,34,472,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,0
+iPhone,Android 11,Low,SSH,2983,system,System Update,423,175,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+Android,iOS 14.6,High,HTTPS,9464,security,System Update,8,313,/tmp/malware.bin,systemd,Pegasus Signature,0
+Android,iOS 15.0,Low,FTP,7618,system,Login,616,280,/var/log/syslog,chrome.exe,Pegasus Signature,1
+iPhone,iOS 14.6,High,HTTP,9519,system,App Install,309,836,/home/user/docs/report.docx,chrome.exe,None,1
+iPhone,Android 10,Low,FTP,9379,application,App Install,943,250,/tmp/malware.bin,chrome.exe,Known Malicious IP,1
+Android,iOS 14.6,Low,FTP,4481,application,App Install,706,486,/var/log/syslog,explorer.exe,Pegasus Signature,1
+iPhone,Android 11,Normal,FTP,3163,system,Logout,533,605,/var/log/syslog,malware.exe,None,0
+iPhone,iOS 15.0,High,HTTPS,5947,system,Logout,955,892,/tmp/malware.bin,explorer.exe,None,1
+Android,Android 10,Normal,HTTP,4127,system,Logout,452,865,/var/log/syslog,malware.exe,Pegasus Signature,1
+Android,iOS 15.0,High,HTTPS,277,security,App Crash,313,991,/tmp/malware.bin,systemd,Pegasus Signature,1
+iPhone,Android 11,Normal,FTP,1181,security,Login,310,536,/home/user/docs/report.docx,explorer.exe,None,0
+iPhone,Android 11,Low,SSH,2199,system,App Crash,204,454,/var/log/syslog,explorer.exe,None,1
+iPhone,iOS 15.0,Low,HTTPS,3557,security,Login,49,624,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+iPhone,Android 11,Normal,SSH,7507,security,File Access,4,978,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+Android,Android 11,Normal,FTP,1860,system,App Install,675,665,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,1
+Android,Android 11,Low,SSH,554,system,App Crash,334,912,/home/user/docs/report.docx,chrome.exe,None,1
+Android,Android 11,High,HTTPS,3920,security,App Install,304,852,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+iPhone,iOS 14.6,High,HTTP,1989,security,App Crash,13,189,/var/log/syslog,malware.exe,None,1
+iPhone,Android 11,High,SSH,6817,security,System Update,929,225,/var/log/syslog,systemd,None,1
+iPhone,Android 10,High,HTTP,7772,application,Logout,924,601,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+iPhone,Android 10,Low,HTTP,9075,system,Login,600,728,/var/log/syslog,systemd,None,1
+iPhone,iOS 15.0,Low,SSH,193,security,App Crash,188,951,/home/user/docs/report.docx,malware.exe,Known Malicious IP,1
+Android,iOS 14.6,High,HTTPS,6309,system,File Access,303,257,/tmp/malware.bin,explorer.exe,None,1
+iPhone,iOS 14.6,Low,HTTPS,5638,application,System Update,901,558,/home/user/docs/report.docx,malware.exe,None,0
+iPhone,Android 11,Low,SSH,5917,system,File Access,807,138,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+Android,iOS 15.0,High,HTTP,7677,system,Logout,600,675,/tmp/malware.bin,chrome.exe,None,1
+Android,iOS 15.0,High,SSH,8432,system,Logout,375,136,/var/log/syslog,explorer.exe,Known Malicious IP,1
+iPhone,iOS 14.6,Low,HTTP,1872,system,App Install,822,589,/tmp/malware.bin,chrome.exe,Known Malicious IP,0
+iPhone,Android 11,High,FTP,6299,security,Logout,596,974,/tmp/malware.bin,chrome.exe,Known Malicious IP,0
+iPhone,iOS 15.0,Normal,HTTPS,5910,system,App Crash,137,792,/home/user/docs/report.docx,malware.exe,None,1
+iPhone,Android 10,Normal,FTP,3654,system,Logout,790,544,/tmp/malware.bin,chrome.exe,None,0
+Android,Android 11,Low,HTTP,2623,security,App Install,223,463,/home/user/docs/report.docx,systemd,Pegasus Signature,0
+Android,iOS 15.0,High,FTP,9850,system,App Crash,156,427,/var/log/syslog,chrome.exe,None,1
+iPhone,Android 10,Normal,FTP,3130,system,File Access,947,791,/tmp/malware.bin,systemd,None,1
+iPhone,Android 11,Low,SSH,1340,security,App Crash,497,270,/var/log/syslog,explorer.exe,Pegasus Signature,1
+iPhone,iOS 14.6,High,FTP,3046,security,File Access,459,598,/home/user/docs/report.docx,chrome.exe,None,1
+iPhone,Android 10,Low,HTTP,1032,application,System Update,990,304,/tmp/malware.bin,malware.exe,Known Malicious IP,1
+Android,iOS 14.6,Normal,HTTPS,782,security,App Crash,575,512,/home/user/docs/report.docx,malware.exe,Pegasus Signature,1
+iPhone,Android 10,Low,HTTPS,941,application,System Update,498,692,/tmp/malware.bin,explorer.exe,Known Malicious IP,1
+iPhone,iOS 14.6,Low,HTTPS,272,application,File Access,585,455,/tmp/malware.bin,malware.exe,None,1
+iPhone,iOS 15.0,Normal,SSH,9806,application,Login,832,754,/home/user/docs/report.docx,chrome.exe,Known Malicious IP,0
+Android,Android 10,Low,FTP,6714,security,Login,167,983,/var/log/syslog,systemd,Known Malicious IP,1
+iPhone,Android 10,Low,FTP,5956,system,App Crash,109,289,/tmp/malware.bin,systemd,Pegasus Signature,1
+iPhone,iOS 14.6,High,FTP,3345,application,Logout,313,663,/home/user/docs/report.docx,systemd,None,1
+iPhone,iOS 14.6,Low,HTTP,6625,system,App Install,386,424,/tmp/malware.bin,explorer.exe,Known Malicious IP,0
+Android,iOS 15.0,Low,HTTPS,976,security,App Install,90,346,/var/log/syslog,explorer.exe,Pegasus Signature,1
+iPhone,Android 10,Low,FTP,4902,system,Logout,651,489,/tmp/malware.bin,malware.exe,Known Malicious IP,0
+iPhone,iOS 15.0,Low,SSH,882,application,File Access,192,619,/home/user/docs/report.docx,explorer.exe,Pegasus Signature,1
+Android,Android 11,Low,FTP,3153,application,System Update,760,904,/var/log/syslog,chrome.exe,Pegasus Signature,1
+Android,iOS 15.0,High,SSH,3070,security,System Update,638,506,/home/user/docs/report.docx,chrome.exe,None,1
+Android,iOS 14.6,Low,HTTP,6031,security,App Crash,10,564,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,1
+Android,Android 10,Normal,HTTP,5399,system,App Install,744,730,/var/log/syslog,chrome.exe,Pegasus Signature,1
+Android,Android 11,Low,HTTP,6875,security,Logout,601,459,/var/log/syslog,explorer.exe,Pegasus Signature,1
+Android,Android 10,Normal,HTTPS,3598,system,Login,302,507,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+Android,Android 11,Normal,HTTPS,6303,security,App Crash,402,957,/var/log/syslog,chrome.exe,Known Malicious IP,1
+iPhone,Android 11,Low,SSH,416,security,Login,582,720,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Low,SSH,6768,system,App Crash,713,695,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+Android,iOS 14.6,Normal,HTTP,4051,application,Login,337,175,/home/user/docs/report.docx,malware.exe,None,1
+iPhone,Android 11,Low,HTTP,4426,system,File Access,158,470,/var/log/syslog,explorer.exe,Pegasus Signature,1
+iPhone,iOS 15.0,Normal,FTP,575,system,Logout,74,902,/var/log/syslog,chrome.exe,None,1
+iPhone,iOS 15.0,Low,SSH,4143,system,App Install,723,518,/home/user/docs/report.docx,systemd,Pegasus Signature,1
+Android,iOS 14.6,Normal,HTTPS,1814,application,Login,917,921,/home/user/docs/report.docx,explorer.exe,Known Malicious IP,1
+Android,Android 10,Normal,HTTPS,6175,application,File Access,842,196,/tmp/malware.bin,systemd,None,1
+iPhone,Android 10,Low,HTTP,6995,security,File Access,57,447,/tmp/malware.bin,chrome.exe,Known Malicious IP,0
+iPhone,iOS 15.0,Normal,HTTP,3686,application,Logout,498,415,/home/user/docs/report.docx,systemd,Known Malicious IP,1
+iPhone,Android 11,Low,SSH,4175,application,Login,262,293,/tmp/malware.bin,malware.exe,Pegasus Signature,1
+Android,Android 10,Low,SSH,132,system,System Update,66,863,/var/log/syslog,malware.exe,None,1
+Android,iOS 14.6,High,HTTP,652,security,App Install,560,562,/var/log/syslog,malware.exe,None,1
+Android,Android 10,Normal,FTP,9463,system,App Install,834,697,/home/user/docs/report.docx,malware.exe,None,1
+iPhone,iOS 14.6,Normal,SSH,1119,security,File Access,533,574,/var/log/syslog,malware.exe,Known Malicious IP,0
