@@ -1,0 +1,6 @@
+causal_list: [['Alcohol', []], ['Malicacid', []], ['Ash', ['Alcalinity of ash', 'Nonflavanoid phenols']], ['Alcalinity of ash', []], ['Magnesium', []], ['Total phenols', []], ['Flavanoids', ['Total phenols', 'Proanthocyanins', 'Color intensity']], ['Nonflavanoid phenols', []], ['Proanthocyanins', []], ['Color intensity', []], ['Hue', []], ['0D280 0D315 of diluted wines', []], ['Proline', []]]
+n_feature: 13
+ALL lenc: [2.], f1: [0.9859], auc: [0.9986]
+AVG lenc: 2.0, f1: 0.9859 (0.0), auc: 0.9986 (0.0)
+ALL runtime: [0.1]
+AVG runtime: 0.1 (0.0) (minutes)
