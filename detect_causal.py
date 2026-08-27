@@ -132,9 +132,9 @@ for dataset in datasets:
                     if dataset == 'seismic' or dataset == 'bank':  # run PC faster
                         transformer_type = "ctgan"
                     else:
-                        transformer_type = "plain"
-                    print("transformer_type: {}".format(normalize))
-                    transform_data, transformer, data_dims = data_transform(normalize, X_train,
+                        transformer_type = normalize
+                    print("transformer_type: {}".format(transformer_type))
+                    transform_data, transformer, data_dims = data_transform(transformer_type, X_train,
                                                                             discrete_cols=categorical_columns)
                 else:
                     os.mkdir(weight_path)
@@ -176,9 +176,9 @@ for dataset in datasets:
                     if dataset == 'seismic' or dataset == 'bank':  # run PC faster
                         transformer_type = "ctgan"
                     else:
-                        transformer_type = "plain"
-                    print("transformer_type: {}".format(normalize))
-                    transform_data, transformer, data_dims = data_transform(normalize, X_train,
+                        transformer_type = normalize
+                    print("transformer_type: {}".format(transformer_type))
+                    transform_data, transformer, data_dims = data_transform(transformer_type, X_train,
                                                                             discrete_cols=categorical_columns)
                     feat_info = FeatureINFO(feature_names, discrete_cols=categorical_columns, feature_dims=data_dims)
                     model = DagTGAN(gan_cfg, feat_info, transformer, ori_dag=cg_org.G, n_gen=n_train,
